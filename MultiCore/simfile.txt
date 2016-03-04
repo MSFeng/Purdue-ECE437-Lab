@@ -1,0 +1,7028 @@
+	[00000000] <-- 341EFFFC
+	[00000004] <-- 341DFFFC
+	[00000008] <-- 34040304
+	[0000000C] <-- 8C100300
+	[00000010] <-- 02002842
+	[00000014] <-- 00048825
+	[00000018] <-- 00059025
+	[0000001C] <-- 0C00001A
+	[00000020] <-- 02004042
+	[00000024] <-- 02082823
+	[00000028] <-- 01004080
+	[0000002C] <-- 34040304
+	[00000030] <-- 00882021
+	[00000034] <-- 00049825
+	[00000038] <-- 0005A025
+	[0000003C] <-- 0C00001A
+	[00000040] <-- 00112025
+	[00000044] <-- 00122825
+	[00000048] <-- 00133025
+	[0000004C] <-- 00143825
+	[00000050] <-- 34080500
+	[00000054] <-- 27BDFFFC
+	[00000058] <-- AFA80000
+	[0000005C] <-- 0C00002B
+	[00000060] <-- 27BD0004
+	[00000064] <-- FFFFFFFF
+	[00000068] <-- 34080004
+	[0000006C] <-- 00A04880
+	[00000070] <-- 0109082B
+	[00000074] <-- 1020000C
+	[00000078] <-- 0088C821
+	[0000007C] <-- 8F380000
+	[00000080] <-- 13240006
+	[00000084] <-- 8F2FFFFC
+	[00000088] <-- 030F082A
+	[0000008C] <-- 10200003
+	[00000090] <-- AF2F0000
+	[00000094] <-- 2739FFFC
+	[00000098] <-- 08000020
+	[0000009C] <-- AF380000
+	[000000A0] <-- 25080004
+	[000000A4] <-- 0800001C
+	[000000A8] <-- 03E00008
+	[000000AC] <-- 8FA80000
+	[000000B0] <-- 14A00002
+	[000000B4] <-- 14E00001
+	[000000B8] <-- 0800004D
+	[000000BC] <-- 10E0000F
+	[000000C0] <-- 10A00015
+	[000000C4] <-- 8C890000
+	[000000C8] <-- 8CCA0000
+	[000000CC] <-- 012A082A
+	[000000D0] <-- 10200005
+	[000000D4] <-- AD090000
+	[000000D8] <-- 25080004
+	[000000DC] <-- 24840004
+	[000000E0] <-- 24A5FFFF
+	[000000E4] <-- 0800002C
+	[000000E8] <-- AD0A0000
+	[000000EC] <-- 25080004
+	[000000F0] <-- 24C60004
+	[000000F4] <-- 24E7FFFF
+	[000000F8] <-- 0800002C
+	[000000FC] <-- 8C890000
+	[00000100] <-- AD090000
+	[00000104] <-- 25080004
+	[00000108] <-- 24A5FFFF
+	[0000010C] <-- 24840004
+	[00000110] <-- 10A00008
+	[00000114] <-- 0800003F
+	[00000118] <-- 8CCA0000
+	[0000011C] <-- AD0A0000
+	[00000120] <-- 25080004
+	[00000124] <-- 24E7FFFF
+	[00000128] <-- 24C60004
+	[0000012C] <-- 10E00001
+	[00000130] <-- 08000046
+	[00000134] <-- 03E00008
+	[00000300] <-- 0000001A
+	[00000304] <-- 0000005A
+	[00000308] <-- 00000051
+	[0000030C] <-- 00000033
+	[00000310] <-- 00000019
+	[00000314] <-- 00000050
+	[00000318] <-- 00000029
+	[0000031C] <-- 00000016
+	[00000320] <-- 00000015
+	[00000324] <-- 0000000C
+	[00000328] <-- 0000003E
+	[0000032C] <-- 0000004B
+	[00000330] <-- 00000047
+	[00000334] <-- 00000053
+	[00000338] <-- 00000051
+	[0000033C] <-- 0000004D
+	[00000340] <-- 00000016
+	[00000344] <-- 0000000B
+	[00000348] <-- 0000001D
+	[0000034C] <-- 00000007
+	[00000350] <-- 00000021
+	[00000354] <-- 00000063
+	[00000358] <-- 0000001B
+	[0000035C] <-- 00000064
+	[00000360] <-- 00000042
+	[00000364] <-- 0000003D
+	[00000368] <-- 00000020
+	[0000036C] <-- 00000001
+	[00000370] <-- 00000036
+	[00000374] <-- 00000004
+	[00000378] <-- 0000003D
+	[0000037C] <-- 00000038
+	[00000380] <-- 00000003
+	[00000384] <-- 00000030
+	[00000388] <-- 00000008
+	[0000038C] <-- 00000042
+	[00000390] <-- 00000064
+	[00000394] <-- 0000000F
+	[00000398] <-- 0000005C
+	[0000039C] <-- 00000041
+	[000003A0] <-- 00000020
+	[000003A4] <-- 00000009
+	[000003A8] <-- 0000002F
+	[000003AC] <-- 00000059
+	[000003B0] <-- 00000011
+	[000003B4] <-- 00000007
+	[000003B8] <-- 00000023
+	[000003BC] <-- 00000044
+	[000003C0] <-- 00000020
+	[000003C4] <-- 0000000A
+	[000003C8] <-- 00000007
+	[000003CC] <-- 00000017
+	[000003D0] <-- 0000005C
+	[000003D4] <-- 0000005B
+	[000003D8] <-- 00000028
+	[000003DC] <-- 0000001A
+	[000003E0] <-- 00000008
+	[000003E4] <-- 00000024
+	[000003E8] <-- 00000026
+	[000003EC] <-- 00000008
+	[000003F0] <-- 00000026
+	[000003F4] <-- 00000010
+	[000003F8] <-- 00000032
+	[000003FC] <-- 00000007
+	[00000400] <-- 00000043
+143 words loaded from meminit.hex
+Starting simulation...
+
+	Core 1
+	PC <-- 00000000
+
+00000000(Core 1): 
+	I$ MISS: I$[0].tag <-- 0x0
+	341EFFFC ORI R30, R0, 65532
+	PC <-- 00000004
+	R30 <-- 0000FFFC
+
+00000004(Core 1): 
+	I$ MISS: I$[1].tag <-- 0x0
+	341DFFFC ORI R29, R0, 65532
+	PC <-- 00000008
+	R29 <-- 0000FFFC
+
+00000008(Core 1): 
+	I$ MISS: I$[2].tag <-- 0x0
+	34040304 ORI R4, R0, 772
+	PC <-- 0000000C
+	R4 <-- 00000304
+
+0000000C(Core 1): 
+	I$ MISS: I$[3].tag <-- 0x0
+	8C100300 LW R16, 768(R0)
+	PC <-- 00000010
+	[word read from 00000300]
+	R16 <-- 0000001A
+	D$ MISS: D$[0][0].tag <-- 0xC (0)
+
+00000010(Core 1): 
+	I$ MISS: I$[4].tag <-- 0x0
+	02002842 SRL R5, R16, 1
+	PC <-- 00000014
+	R5 <-- 0000000D
+
+00000014(Core 1): 
+	I$ MISS: I$[5].tag <-- 0x0
+	00048825 OR R17, R0, R4
+	PC <-- 00000018
+	R17 <-- 00000304
+
+00000018(Core 1): 
+	I$ MISS: I$[6].tag <-- 0x0
+	00059025 OR R18, R0, R5
+	PC <-- 0000001C
+	R18 <-- 0000000D
+
+0000001C(Core 1): 
+	I$ MISS: I$[7].tag <-- 0x0
+	0C00001A JAL 00000068
+	PC <-- 00000068
+	R31 <-- 00000020
+
+00000068(Core 1): 
+	I$ MISS: I$[10].tag <-- 0x1
+	34080004 ORI R8, R0, 4
+	PC <-- 0000006C
+	R8 <-- 00000004
+
+0000006C(Core 1): 
+	I$ MISS: I$[11].tag <-- 0x1
+	00A04880 SLL R9, R5, 2
+	PC <-- 00000070
+	R9 <-- 00000034
+
+00000070(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$ MISS: I$[13].tag <-- 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$ MISS: I$[14].tag <-- 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 00000308
+
+0000007C(Core 1): 
+	I$ MISS: I$[15].tag <-- 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 00000308]
+	R24 <-- 00000051
+	D$ MISS: D$[1][0].tag <-- 0xC (0)
+
+00000080(Core 1): 
+	I$ MISS: I$[0].tag <-- 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$ MISS: I$[1].tag <-- 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000304]
+	R15 <-- 0000005A
+	D$[0][0] HIT with Tag = 0xC (1)
+
+00000088(Core 1): 
+	I$ MISS: I$[2].tag <-- 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$ MISS: I$[3].tag <-- 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$ MISS: I$[4].tag <-- 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[1][0] HIT with Tag = 0xC (2)
+	[00000308] <-- 0000005A
+
+00000094(Core 1): 
+	I$ MISS: I$[5].tag <-- 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000304
+
+00000098(Core 1): 
+	I$ MISS: I$[6].tag <-- 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$ MISS: I$[7].tag <-- 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[0][0] HIT with Tag = 0xC (3)
+	[00000304] <-- 00000051
+
+000000A0(Core 1): 
+	I$ MISS: I$[8].tag <-- 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 00000008
+
+000000A4(Core 1): 
+	I$ MISS: I$[9].tag <-- 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$[14] HIT with Tag = 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 0000030C
+
+0000007C(Core 1): 
+	I$[15] HIT with Tag = 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 0000030C]
+	R24 <-- 00000033
+	D$[1][0] HIT with Tag = 0xC (4)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000308]
+	R15 <-- 0000005A
+	D$[1][0] HIT with Tag = 0xC (5)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[1][0] HIT with Tag = 0xC (6)
+	[0000030C] <-- 0000005A
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000308
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000304]
+	R15 <-- 00000051
+	D$[0][0] HIT with Tag = 0xC (7)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[1][0] HIT with Tag = 0xC (8)
+	[00000308] <-- 00000051
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000304
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[0][0] HIT with Tag = 0xC (9)
+	[00000304] <-- 00000033
+
+000000A0(Core 1): 
+	I$[8] HIT with Tag = 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 0000000C
+
+000000A4(Core 1): 
+	I$[9] HIT with Tag = 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$[14] HIT with Tag = 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 00000310
+
+0000007C(Core 1): 
+	I$[15] HIT with Tag = 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 00000310]
+	R24 <-- 00000019
+	D$ MISS: D$[2][0].tag <-- 0xC (9)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000030C]
+	R15 <-- 0000005A
+	D$[1][0] HIT with Tag = 0xC (10)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[2][0] HIT with Tag = 0xC (11)
+	[00000310] <-- 0000005A
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 0000030C
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000308]
+	R15 <-- 00000051
+	D$[1][0] HIT with Tag = 0xC (12)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[1][0] HIT with Tag = 0xC (13)
+	[0000030C] <-- 00000051
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000308
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000304]
+	R15 <-- 00000033
+	D$[0][0] HIT with Tag = 0xC (14)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[1][0] HIT with Tag = 0xC (15)
+	[00000308] <-- 00000033
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000304
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[0][0] HIT with Tag = 0xC (16)
+	[00000304] <-- 00000019
+
+000000A0(Core 1): 
+	I$[8] HIT with Tag = 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 00000010
+
+000000A4(Core 1): 
+	I$[9] HIT with Tag = 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$[14] HIT with Tag = 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 00000314
+
+0000007C(Core 1): 
+	I$[15] HIT with Tag = 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 00000314]
+	R24 <-- 00000050
+	D$[2][0] HIT with Tag = 0xC (17)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000310]
+	R15 <-- 0000005A
+	D$[2][0] HIT with Tag = 0xC (18)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[2][0] HIT with Tag = 0xC (19)
+	[00000314] <-- 0000005A
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000310
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000030C]
+	R15 <-- 00000051
+	D$[1][0] HIT with Tag = 0xC (20)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[2][0] HIT with Tag = 0xC (21)
+	[00000310] <-- 00000051
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 0000030C
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000308]
+	R15 <-- 00000033
+	D$[1][0] HIT with Tag = 0xC (22)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000000
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[1][0] HIT with Tag = 0xC (23)
+	[0000030C] <-- 00000050
+
+000000A0(Core 1): 
+	I$[8] HIT with Tag = 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 00000014
+
+000000A4(Core 1): 
+	I$[9] HIT with Tag = 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$[14] HIT with Tag = 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 00000318
+
+0000007C(Core 1): 
+	I$[15] HIT with Tag = 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 00000318]
+	R24 <-- 00000029
+	D$ MISS: D$[3][0].tag <-- 0xC (23)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000314]
+	R15 <-- 0000005A
+	D$[2][0] HIT with Tag = 0xC (24)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[3][0] HIT with Tag = 0xC (25)
+	[00000318] <-- 0000005A
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000314
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000310]
+	R15 <-- 00000051
+	D$[2][0] HIT with Tag = 0xC (26)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[2][0] HIT with Tag = 0xC (27)
+	[00000314] <-- 00000051
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000310
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000030C]
+	R15 <-- 00000050
+	D$[1][0] HIT with Tag = 0xC (28)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[2][0] HIT with Tag = 0xC (29)
+	[00000310] <-- 00000050
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 0000030C
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000308]
+	R15 <-- 00000033
+	D$[1][0] HIT with Tag = 0xC (30)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[1][0] HIT with Tag = 0xC (31)
+	[0000030C] <-- 00000033
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000308
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000304]
+	R15 <-- 00000019
+	D$[0][0] HIT with Tag = 0xC (32)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000000
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[1][0] HIT with Tag = 0xC (33)
+	[00000308] <-- 00000029
+
+000000A0(Core 1): 
+	I$[8] HIT with Tag = 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 00000018
+
+000000A4(Core 1): 
+	I$[9] HIT with Tag = 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$[14] HIT with Tag = 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 0000031C
+
+0000007C(Core 1): 
+	I$[15] HIT with Tag = 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 0000031C]
+	R24 <-- 00000016
+	D$[3][0] HIT with Tag = 0xC (34)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000318]
+	R15 <-- 0000005A
+	D$[3][0] HIT with Tag = 0xC (35)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[3][0] HIT with Tag = 0xC (36)
+	[0000031C] <-- 0000005A
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000318
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000314]
+	R15 <-- 00000051
+	D$[2][0] HIT with Tag = 0xC (37)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[3][0] HIT with Tag = 0xC (38)
+	[00000318] <-- 00000051
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000314
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000310]
+	R15 <-- 00000050
+	D$[2][0] HIT with Tag = 0xC (39)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[2][0] HIT with Tag = 0xC (40)
+	[00000314] <-- 00000050
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000310
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000030C]
+	R15 <-- 00000033
+	D$[1][0] HIT with Tag = 0xC (41)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[2][0] HIT with Tag = 0xC (42)
+	[00000310] <-- 00000033
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 0000030C
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000308]
+	R15 <-- 00000029
+	D$[1][0] HIT with Tag = 0xC (43)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[1][0] HIT with Tag = 0xC (44)
+	[0000030C] <-- 00000029
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000308
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000304]
+	R15 <-- 00000019
+	D$[0][0] HIT with Tag = 0xC (45)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[1][0] HIT with Tag = 0xC (46)
+	[00000308] <-- 00000019
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000304
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[0][0] HIT with Tag = 0xC (47)
+	[00000304] <-- 00000016
+
+000000A0(Core 1): 
+	I$[8] HIT with Tag = 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 0000001C
+
+000000A4(Core 1): 
+	I$[9] HIT with Tag = 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$[14] HIT with Tag = 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 00000320
+
+0000007C(Core 1): 
+	I$[15] HIT with Tag = 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 00000320]
+	R24 <-- 00000015
+	D$ MISS: D$[4][0].tag <-- 0xC (47)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000031C]
+	R15 <-- 0000005A
+	D$[3][0] HIT with Tag = 0xC (48)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[4][0] HIT with Tag = 0xC (49)
+	[00000320] <-- 0000005A
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 0000031C
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000318]
+	R15 <-- 00000051
+	D$[3][0] HIT with Tag = 0xC (50)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[3][0] HIT with Tag = 0xC (51)
+	[0000031C] <-- 00000051
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000318
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000314]
+	R15 <-- 00000050
+	D$[2][0] HIT with Tag = 0xC (52)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[3][0] HIT with Tag = 0xC (53)
+	[00000318] <-- 00000050
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000314
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000310]
+	R15 <-- 00000033
+	D$[2][0] HIT with Tag = 0xC (54)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[2][0] HIT with Tag = 0xC (55)
+	[00000314] <-- 00000033
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000310
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000030C]
+	R15 <-- 00000029
+	D$[1][0] HIT with Tag = 0xC (56)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[2][0] HIT with Tag = 0xC (57)
+	[00000310] <-- 00000029
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 0000030C
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000308]
+	R15 <-- 00000019
+	D$[1][0] HIT with Tag = 0xC (58)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[1][0] HIT with Tag = 0xC (59)
+	[0000030C] <-- 00000019
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000308
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000304]
+	R15 <-- 00000016
+	D$[0][0] HIT with Tag = 0xC (60)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[1][0] HIT with Tag = 0xC (61)
+	[00000308] <-- 00000016
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000304
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[0][0] HIT with Tag = 0xC (62)
+	[00000304] <-- 00000015
+
+000000A0(Core 1): 
+	I$[8] HIT with Tag = 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 00000020
+
+000000A4(Core 1): 
+	I$[9] HIT with Tag = 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$[14] HIT with Tag = 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 00000324
+
+0000007C(Core 1): 
+	I$[15] HIT with Tag = 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 00000324]
+	R24 <-- 0000000C
+	D$[4][0] HIT with Tag = 0xC (63)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000320]
+	R15 <-- 0000005A
+	D$[4][0] HIT with Tag = 0xC (64)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[4][0] HIT with Tag = 0xC (65)
+	[00000324] <-- 0000005A
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000320
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000031C]
+	R15 <-- 00000051
+	D$[3][0] HIT with Tag = 0xC (66)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[4][0] HIT with Tag = 0xC (67)
+	[00000320] <-- 00000051
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 0000031C
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000318]
+	R15 <-- 00000050
+	D$[3][0] HIT with Tag = 0xC (68)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[3][0] HIT with Tag = 0xC (69)
+	[0000031C] <-- 00000050
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000318
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000314]
+	R15 <-- 00000033
+	D$[2][0] HIT with Tag = 0xC (70)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[3][0] HIT with Tag = 0xC (71)
+	[00000318] <-- 00000033
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000314
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000310]
+	R15 <-- 00000029
+	D$[2][0] HIT with Tag = 0xC (72)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[2][0] HIT with Tag = 0xC (73)
+	[00000314] <-- 00000029
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000310
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000030C]
+	R15 <-- 00000019
+	D$[1][0] HIT with Tag = 0xC (74)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[2][0] HIT with Tag = 0xC (75)
+	[00000310] <-- 00000019
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 0000030C
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000308]
+	R15 <-- 00000016
+	D$[1][0] HIT with Tag = 0xC (76)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[1][0] HIT with Tag = 0xC (77)
+	[0000030C] <-- 00000016
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000308
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000304]
+	R15 <-- 00000015
+	D$[0][0] HIT with Tag = 0xC (78)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[1][0] HIT with Tag = 0xC (79)
+	[00000308] <-- 00000015
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000304
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[0][0] HIT with Tag = 0xC (80)
+	[00000304] <-- 0000000C
+
+000000A0(Core 1): 
+	I$[8] HIT with Tag = 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 00000024
+
+000000A4(Core 1): 
+	I$[9] HIT with Tag = 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$[14] HIT with Tag = 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 00000328
+
+0000007C(Core 1): 
+	I$[15] HIT with Tag = 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 00000328]
+	R24 <-- 0000003E
+	D$ MISS: D$[5][0].tag <-- 0xC (80)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000324]
+	R15 <-- 0000005A
+	D$[4][0] HIT with Tag = 0xC (81)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[5][0] HIT with Tag = 0xC (82)
+	[00000328] <-- 0000005A
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000324
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000320]
+	R15 <-- 00000051
+	D$[4][0] HIT with Tag = 0xC (83)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[4][0] HIT with Tag = 0xC (84)
+	[00000324] <-- 00000051
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000320
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000031C]
+	R15 <-- 00000050
+	D$[3][0] HIT with Tag = 0xC (85)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[4][0] HIT with Tag = 0xC (86)
+	[00000320] <-- 00000050
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 0000031C
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000318]
+	R15 <-- 00000033
+	D$[3][0] HIT with Tag = 0xC (87)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000000
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[3][0] HIT with Tag = 0xC (88)
+	[0000031C] <-- 0000003E
+
+000000A0(Core 1): 
+	I$[8] HIT with Tag = 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 00000028
+
+000000A4(Core 1): 
+	I$[9] HIT with Tag = 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$[14] HIT with Tag = 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 0000032C
+
+0000007C(Core 1): 
+	I$[15] HIT with Tag = 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 0000032C]
+	R24 <-- 0000004B
+	D$[5][0] HIT with Tag = 0xC (89)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000328]
+	R15 <-- 0000005A
+	D$[5][0] HIT with Tag = 0xC (90)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[5][0] HIT with Tag = 0xC (91)
+	[0000032C] <-- 0000005A
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000328
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000324]
+	R15 <-- 00000051
+	D$[4][0] HIT with Tag = 0xC (92)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[5][0] HIT with Tag = 0xC (93)
+	[00000328] <-- 00000051
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000324
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000320]
+	R15 <-- 00000050
+	D$[4][0] HIT with Tag = 0xC (94)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[4][0] HIT with Tag = 0xC (95)
+	[00000324] <-- 00000050
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000320
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000031C]
+	R15 <-- 0000003E
+	D$[3][0] HIT with Tag = 0xC (96)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000000
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[4][0] HIT with Tag = 0xC (97)
+	[00000320] <-- 0000004B
+
+000000A0(Core 1): 
+	I$[8] HIT with Tag = 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 0000002C
+
+000000A4(Core 1): 
+	I$[9] HIT with Tag = 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$[14] HIT with Tag = 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 00000330
+
+0000007C(Core 1): 
+	I$[15] HIT with Tag = 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 00000330]
+	R24 <-- 00000047
+	D$ MISS: D$[6][0].tag <-- 0xC (97)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000032C]
+	R15 <-- 0000005A
+	D$[5][0] HIT with Tag = 0xC (98)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[6][0] HIT with Tag = 0xC (99)
+	[00000330] <-- 0000005A
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 0000032C
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000328]
+	R15 <-- 00000051
+	D$[5][0] HIT with Tag = 0xC (100)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[5][0] HIT with Tag = 0xC (101)
+	[0000032C] <-- 00000051
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000328
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000324]
+	R15 <-- 00000050
+	D$[4][0] HIT with Tag = 0xC (102)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[5][0] HIT with Tag = 0xC (103)
+	[00000328] <-- 00000050
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000324
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000320]
+	R15 <-- 0000004B
+	D$[4][0] HIT with Tag = 0xC (104)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[4][0] HIT with Tag = 0xC (105)
+	[00000324] <-- 0000004B
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000320
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000031C]
+	R15 <-- 0000003E
+	D$[3][0] HIT with Tag = 0xC (106)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000000
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[4][0] HIT with Tag = 0xC (107)
+	[00000320] <-- 00000047
+
+000000A0(Core 1): 
+	I$[8] HIT with Tag = 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 00000030
+
+000000A4(Core 1): 
+	I$[9] HIT with Tag = 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$[14] HIT with Tag = 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 00000334
+
+0000007C(Core 1): 
+	I$[15] HIT with Tag = 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 00000334]
+	R24 <-- 00000053
+	D$[6][0] HIT with Tag = 0xC (108)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000330]
+	R15 <-- 0000005A
+	D$[6][0] HIT with Tag = 0xC (109)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[6][0] HIT with Tag = 0xC (110)
+	[00000334] <-- 0000005A
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000330
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000032C]
+	R15 <-- 00000051
+	D$[5][0] HIT with Tag = 0xC (111)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000000
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[6][0] HIT with Tag = 0xC (112)
+	[00000330] <-- 00000053
+
+000000A0(Core 1): 
+	I$[8] HIT with Tag = 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 00000034
+
+000000A4(Core 1): 
+	I$[9] HIT with Tag = 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000000
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 000000A8
+
+000000A8(Core 1): 
+	I$ MISS: I$[10].tag <-- 0x2
+	03E00008 JR R31
+	PC <-- 00000020
+
+00000020(Core 1): 
+	I$ MISS: I$[8].tag <-- 0x0
+	02004042 SRL R8, R16, 1
+	PC <-- 00000024
+	R8 <-- 0000000D
+
+00000024(Core 1): 
+	I$ MISS: I$[9].tag <-- 0x0
+	02082823 SUBU R5, R16, R8
+	PC <-- 00000028
+	R5 <-- 0000000D
+
+00000028(Core 1): 
+	I$ MISS: I$[10].tag <-- 0x0
+	01004080 SLL R8, R8, 2
+	PC <-- 0000002C
+	R8 <-- 00000034
+
+0000002C(Core 1): 
+	I$ MISS: I$[11].tag <-- 0x0
+	34040304 ORI R4, R0, 772
+	PC <-- 00000030
+	R4 <-- 00000304
+
+00000030(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x0
+	00882021 ADDU R4, R4, R8
+	PC <-- 00000034
+	R4 <-- 00000338
+
+00000034(Core 1): 
+	I$ MISS: I$[13].tag <-- 0x0
+	00049825 OR R19, R0, R4
+	PC <-- 00000038
+	R19 <-- 00000338
+
+00000038(Core 1): 
+	I$ MISS: I$[14].tag <-- 0x0
+	0005A025 OR R20, R0, R5
+	PC <-- 0000003C
+	R20 <-- 0000000D
+
+0000003C(Core 1): 
+	I$ MISS: I$[15].tag <-- 0x0
+	0C00001A JAL 00000068
+	PC <-- 00000068
+	R31 <-- 00000040
+
+00000068(Core 1): 
+	I$ MISS: I$[10].tag <-- 0x1
+	34080004 ORI R8, R0, 4
+	PC <-- 0000006C
+	R8 <-- 00000004
+
+0000006C(Core 1): 
+	I$ MISS: I$[11].tag <-- 0x1
+	00A04880 SLL R9, R5, 2
+	PC <-- 00000070
+	R9 <-- 00000034
+
+00000070(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$ MISS: I$[13].tag <-- 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$ MISS: I$[14].tag <-- 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 0000033C
+
+0000007C(Core 1): 
+	I$ MISS: I$[15].tag <-- 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 0000033C]
+	R24 <-- 0000004D
+	D$ MISS: D$[7][0].tag <-- 0xC (112)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000338]
+	R15 <-- 00000051
+	D$[7][0] HIT with Tag = 0xC (113)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[7][0] HIT with Tag = 0xC (114)
+	[0000033C] <-- 00000051
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000338
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[7][0] HIT with Tag = 0xC (115)
+	[00000338] <-- 0000004D
+
+000000A0(Core 1): 
+	I$ MISS: I$[8].tag <-- 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 00000008
+
+000000A4(Core 1): 
+	I$ MISS: I$[9].tag <-- 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$[14] HIT with Tag = 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 00000340
+
+0000007C(Core 1): 
+	I$[15] HIT with Tag = 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 00000340]
+	R24 <-- 00000016
+	D$ MISS: D$[0][1].tag <-- 0xD (115)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000033C]
+	R15 <-- 00000051
+	D$[7][0] HIT with Tag = 0xC (116)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[0][1] HIT with Tag = 0xD (117)
+	[00000340] <-- 00000051
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 0000033C
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000338]
+	R15 <-- 0000004D
+	D$[7][0] HIT with Tag = 0xC (118)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[7][0] HIT with Tag = 0xC (119)
+	[0000033C] <-- 0000004D
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000338
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[7][0] HIT with Tag = 0xC (120)
+	[00000338] <-- 00000016
+
+000000A0(Core 1): 
+	I$[8] HIT with Tag = 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 0000000C
+
+000000A4(Core 1): 
+	I$[9] HIT with Tag = 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$[14] HIT with Tag = 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 00000344
+
+0000007C(Core 1): 
+	I$[15] HIT with Tag = 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 00000344]
+	R24 <-- 0000000B
+	D$[0][1] HIT with Tag = 0xD (121)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000340]
+	R15 <-- 00000051
+	D$[0][1] HIT with Tag = 0xD (122)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[0][1] HIT with Tag = 0xD (123)
+	[00000344] <-- 00000051
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000340
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000033C]
+	R15 <-- 0000004D
+	D$[7][0] HIT with Tag = 0xC (124)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[0][1] HIT with Tag = 0xD (125)
+	[00000340] <-- 0000004D
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 0000033C
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000338]
+	R15 <-- 00000016
+	D$[7][0] HIT with Tag = 0xC (126)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[7][0] HIT with Tag = 0xC (127)
+	[0000033C] <-- 00000016
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000338
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[7][0] HIT with Tag = 0xC (128)
+	[00000338] <-- 0000000B
+
+000000A0(Core 1): 
+	I$[8] HIT with Tag = 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 00000010
+
+000000A4(Core 1): 
+	I$[9] HIT with Tag = 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$[14] HIT with Tag = 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 00000348
+
+0000007C(Core 1): 
+	I$[15] HIT with Tag = 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 00000348]
+	R24 <-- 0000001D
+	D$ MISS: D$[1][1].tag <-- 0xD (128)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000344]
+	R15 <-- 00000051
+	D$[0][1] HIT with Tag = 0xD (129)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[1][1] HIT with Tag = 0xD (130)
+	[00000348] <-- 00000051
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000344
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000340]
+	R15 <-- 0000004D
+	D$[0][1] HIT with Tag = 0xD (131)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[0][1] HIT with Tag = 0xD (132)
+	[00000344] <-- 0000004D
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000340
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000033C]
+	R15 <-- 00000016
+	D$[7][0] HIT with Tag = 0xC (133)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000000
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[0][1] HIT with Tag = 0xD (134)
+	[00000340] <-- 0000001D
+
+000000A0(Core 1): 
+	I$[8] HIT with Tag = 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 00000014
+
+000000A4(Core 1): 
+	I$[9] HIT with Tag = 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$[14] HIT with Tag = 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 0000034C
+
+0000007C(Core 1): 
+	I$[15] HIT with Tag = 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 0000034C]
+	R24 <-- 00000007
+	D$[1][1] HIT with Tag = 0xD (135)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000348]
+	R15 <-- 00000051
+	D$[1][1] HIT with Tag = 0xD (136)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[1][1] HIT with Tag = 0xD (137)
+	[0000034C] <-- 00000051
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000348
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000344]
+	R15 <-- 0000004D
+	D$[0][1] HIT with Tag = 0xD (138)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[1][1] HIT with Tag = 0xD (139)
+	[00000348] <-- 0000004D
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000344
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000340]
+	R15 <-- 0000001D
+	D$[0][1] HIT with Tag = 0xD (140)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[0][1] HIT with Tag = 0xD (141)
+	[00000344] <-- 0000001D
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000340
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000033C]
+	R15 <-- 00000016
+	D$[7][0] HIT with Tag = 0xC (142)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[0][1] HIT with Tag = 0xD (143)
+	[00000340] <-- 00000016
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 0000033C
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000338]
+	R15 <-- 0000000B
+	D$[7][0] HIT with Tag = 0xC (144)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[7][0] HIT with Tag = 0xC (145)
+	[0000033C] <-- 0000000B
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000338
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[7][0] HIT with Tag = 0xC (146)
+	[00000338] <-- 00000007
+
+000000A0(Core 1): 
+	I$[8] HIT with Tag = 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 00000018
+
+000000A4(Core 1): 
+	I$[9] HIT with Tag = 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$[14] HIT with Tag = 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 00000350
+
+0000007C(Core 1): 
+	I$[15] HIT with Tag = 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 00000350]
+	R24 <-- 00000021
+	D$ MISS: D$[2][1].tag <-- 0xD (146)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000034C]
+	R15 <-- 00000051
+	D$[1][1] HIT with Tag = 0xD (147)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[2][1] HIT with Tag = 0xD (148)
+	[00000350] <-- 00000051
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 0000034C
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000348]
+	R15 <-- 0000004D
+	D$[1][1] HIT with Tag = 0xD (149)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[1][1] HIT with Tag = 0xD (150)
+	[0000034C] <-- 0000004D
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000348
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000344]
+	R15 <-- 0000001D
+	D$[0][1] HIT with Tag = 0xD (151)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000000
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[1][1] HIT with Tag = 0xD (152)
+	[00000348] <-- 00000021
+
+000000A0(Core 1): 
+	I$[8] HIT with Tag = 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 0000001C
+
+000000A4(Core 1): 
+	I$[9] HIT with Tag = 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$[14] HIT with Tag = 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 00000354
+
+0000007C(Core 1): 
+	I$[15] HIT with Tag = 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 00000354]
+	R24 <-- 00000063
+	D$[2][1] HIT with Tag = 0xD (153)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000350]
+	R15 <-- 00000051
+	D$[2][1] HIT with Tag = 0xD (154)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000000
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[2][1] HIT with Tag = 0xD (155)
+	[00000354] <-- 00000063
+
+000000A0(Core 1): 
+	I$[8] HIT with Tag = 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 00000020
+
+000000A4(Core 1): 
+	I$[9] HIT with Tag = 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$[14] HIT with Tag = 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 00000358
+
+0000007C(Core 1): 
+	I$[15] HIT with Tag = 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 00000358]
+	R24 <-- 0000001B
+	D$ MISS: D$[3][1].tag <-- 0xD (155)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000354]
+	R15 <-- 00000063
+	D$[2][1] HIT with Tag = 0xD (156)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[3][1] HIT with Tag = 0xD (157)
+	[00000358] <-- 00000063
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000354
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000350]
+	R15 <-- 00000051
+	D$[2][1] HIT with Tag = 0xD (158)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[2][1] HIT with Tag = 0xD (159)
+	[00000354] <-- 00000051
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000350
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000034C]
+	R15 <-- 0000004D
+	D$[1][1] HIT with Tag = 0xD (160)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[2][1] HIT with Tag = 0xD (161)
+	[00000350] <-- 0000004D
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 0000034C
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000348]
+	R15 <-- 00000021
+	D$[1][1] HIT with Tag = 0xD (162)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[1][1] HIT with Tag = 0xD (163)
+	[0000034C] <-- 00000021
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000348
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000344]
+	R15 <-- 0000001D
+	D$[0][1] HIT with Tag = 0xD (164)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[1][1] HIT with Tag = 0xD (165)
+	[00000348] <-- 0000001D
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000344
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000340]
+	R15 <-- 00000016
+	D$[0][1] HIT with Tag = 0xD (166)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000000
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[0][1] HIT with Tag = 0xD (167)
+	[00000344] <-- 0000001B
+
+000000A0(Core 1): 
+	I$[8] HIT with Tag = 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 00000024
+
+000000A4(Core 1): 
+	I$[9] HIT with Tag = 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$[14] HIT with Tag = 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 0000035C
+
+0000007C(Core 1): 
+	I$[15] HIT with Tag = 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 0000035C]
+	R24 <-- 00000064
+	D$[3][1] HIT with Tag = 0xD (168)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000358]
+	R15 <-- 00000063
+	D$[3][1] HIT with Tag = 0xD (169)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000000
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[3][1] HIT with Tag = 0xD (170)
+	[0000035C] <-- 00000064
+
+000000A0(Core 1): 
+	I$[8] HIT with Tag = 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 00000028
+
+000000A4(Core 1): 
+	I$[9] HIT with Tag = 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$[14] HIT with Tag = 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 00000360
+
+0000007C(Core 1): 
+	I$[15] HIT with Tag = 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 00000360]
+	R24 <-- 00000042
+	D$ MISS: D$[4][1].tag <-- 0xD (170)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000035C]
+	R15 <-- 00000064
+	D$[3][1] HIT with Tag = 0xD (171)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[4][1] HIT with Tag = 0xD (172)
+	[00000360] <-- 00000064
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 0000035C
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000358]
+	R15 <-- 00000063
+	D$[3][1] HIT with Tag = 0xD (173)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[3][1] HIT with Tag = 0xD (174)
+	[0000035C] <-- 00000063
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000358
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000354]
+	R15 <-- 00000051
+	D$[2][1] HIT with Tag = 0xD (175)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[3][1] HIT with Tag = 0xD (176)
+	[00000358] <-- 00000051
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000354
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000350]
+	R15 <-- 0000004D
+	D$[2][1] HIT with Tag = 0xD (177)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[2][1] HIT with Tag = 0xD (178)
+	[00000354] <-- 0000004D
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000350
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000034C]
+	R15 <-- 00000021
+	D$[1][1] HIT with Tag = 0xD (179)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000000
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[2][1] HIT with Tag = 0xD (180)
+	[00000350] <-- 00000042
+
+000000A0(Core 1): 
+	I$[8] HIT with Tag = 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 0000002C
+
+000000A4(Core 1): 
+	I$[9] HIT with Tag = 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$[14] HIT with Tag = 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 00000364
+
+0000007C(Core 1): 
+	I$[15] HIT with Tag = 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 00000364]
+	R24 <-- 0000003D
+	D$[4][1] HIT with Tag = 0xD (181)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000360]
+	R15 <-- 00000064
+	D$[4][1] HIT with Tag = 0xD (182)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[4][1] HIT with Tag = 0xD (183)
+	[00000364] <-- 00000064
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000360
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000035C]
+	R15 <-- 00000063
+	D$[3][1] HIT with Tag = 0xD (184)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[4][1] HIT with Tag = 0xD (185)
+	[00000360] <-- 00000063
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 0000035C
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000358]
+	R15 <-- 00000051
+	D$[3][1] HIT with Tag = 0xD (186)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[3][1] HIT with Tag = 0xD (187)
+	[0000035C] <-- 00000051
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000358
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000354]
+	R15 <-- 0000004D
+	D$[2][1] HIT with Tag = 0xD (188)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[3][1] HIT with Tag = 0xD (189)
+	[00000358] <-- 0000004D
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000354
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000350]
+	R15 <-- 00000042
+	D$[2][1] HIT with Tag = 0xD (190)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[2][1] HIT with Tag = 0xD (191)
+	[00000354] <-- 00000042
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000350
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000034C]
+	R15 <-- 00000021
+	D$[1][1] HIT with Tag = 0xD (192)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000000
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[2][1] HIT with Tag = 0xD (193)
+	[00000350] <-- 0000003D
+
+000000A0(Core 1): 
+	I$[8] HIT with Tag = 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 00000030
+
+000000A4(Core 1): 
+	I$[9] HIT with Tag = 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000001
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 00000078
+
+00000078(Core 1): 
+	I$[14] HIT with Tag = 0x1
+	0088C821 ADDU R25, R4, R8
+	PC <-- 0000007C
+	R25 <-- 00000368
+
+0000007C(Core 1): 
+	I$[15] HIT with Tag = 0x1
+	8F380000 LW R24, 0(R25)
+	PC <-- 00000080
+	[word read from 00000368]
+	R24 <-- 00000020
+	D$ MISS: D$[5][1].tag <-- 0xD (193)
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000364]
+	R15 <-- 00000064
+	D$[4][1] HIT with Tag = 0xD (194)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[5][1] HIT with Tag = 0xD (195)
+	[00000368] <-- 00000064
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000364
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000360]
+	R15 <-- 00000063
+	D$[4][1] HIT with Tag = 0xD (196)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[4][1] HIT with Tag = 0xD (197)
+	[00000364] <-- 00000063
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000360
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000035C]
+	R15 <-- 00000051
+	D$[3][1] HIT with Tag = 0xD (198)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[4][1] HIT with Tag = 0xD (199)
+	[00000360] <-- 00000051
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 0000035C
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000358]
+	R15 <-- 0000004D
+	D$[3][1] HIT with Tag = 0xD (200)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[3][1] HIT with Tag = 0xD (201)
+	[0000035C] <-- 0000004D
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000358
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000354]
+	R15 <-- 00000042
+	D$[2][1] HIT with Tag = 0xD (202)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[3][1] HIT with Tag = 0xD (203)
+	[00000358] <-- 00000042
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000354
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000350]
+	R15 <-- 0000003D
+	D$[2][1] HIT with Tag = 0xD (204)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[2][1] HIT with Tag = 0xD (205)
+	[00000354] <-- 0000003D
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 00000350
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 0000034C]
+	R15 <-- 00000021
+	D$[1][1] HIT with Tag = 0xD (206)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000001
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 00000090
+
+00000090(Core 1): 
+	I$[4] HIT with Tag = 0x2
+	AF2F0000 SW R15, 0(R25)
+	PC <-- 00000094
+	D$[2][1] HIT with Tag = 0xD (207)
+	[00000350] <-- 00000021
+
+00000094(Core 1): 
+	I$[5] HIT with Tag = 0x2
+	2739FFFC ADDIU R25, R25, -4
+	PC <-- 00000098
+	R25 <-- 0000034C
+
+00000098(Core 1): 
+	I$[6] HIT with Tag = 0x2
+	08000020 J 00000080
+	PC <-- 00000080
+
+00000080(Core 1): 
+	I$[0] HIT with Tag = 0x2
+	13240006 BEQ R4, R25, 156
+	PC <-- 00000084
+
+00000084(Core 1): 
+	I$[1] HIT with Tag = 0x2
+	8F2FFFFC LW R15, -4(R25)
+	PC <-- 00000088
+	[word read from 00000348]
+	R15 <-- 0000001D
+	D$[1][1] HIT with Tag = 0xD (208)
+
+00000088(Core 1): 
+	I$[2] HIT with Tag = 0x2
+	030F082A SLT R1, R24, R15
+	PC <-- 0000008C
+	R1 <-- 00000000
+
+0000008C(Core 1): 
+	I$[3] HIT with Tag = 0x2
+	10200003 BEQ R0, R1, 156
+	PC <-- 0000009C
+
+0000009C(Core 1): 
+	I$[7] HIT with Tag = 0x2
+	AF380000 SW R24, 0(R25)
+	PC <-- 000000A0
+	D$[1][1] HIT with Tag = 0xD (209)
+	[0000034C] <-- 00000020
+
+000000A0(Core 1): 
+	I$[8] HIT with Tag = 0x2
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000A4
+	R8 <-- 00000034
+
+000000A4(Core 1): 
+	I$[9] HIT with Tag = 0x2
+	0800001C J 00000070
+	PC <-- 00000070
+
+00000070(Core 1): 
+	I$[12] HIT with Tag = 0x1
+	0109082B SLTU R1, R8, R9
+	PC <-- 00000074
+	R1 <-- 00000000
+
+00000074(Core 1): 
+	I$[13] HIT with Tag = 0x1
+	1020000C BEQ R0, R1, 168
+	PC <-- 000000A8
+
+000000A8(Core 1): 
+	I$ MISS: I$[10].tag <-- 0x2
+	03E00008 JR R31
+	PC <-- 00000040
+
+00000040(Core 1): 
+	I$ MISS: I$[0].tag <-- 0x1
+	00112025 OR R4, R0, R17
+	PC <-- 00000044
+	R4 <-- 00000304
+
+00000044(Core 1): 
+	I$ MISS: I$[1].tag <-- 0x1
+	00122825 OR R5, R0, R18
+	PC <-- 00000048
+	R5 <-- 0000000D
+
+00000048(Core 1): 
+	I$ MISS: I$[2].tag <-- 0x1
+	00133025 OR R6, R0, R19
+	PC <-- 0000004C
+	R6 <-- 00000338
+
+0000004C(Core 1): 
+	I$ MISS: I$[3].tag <-- 0x1
+	00143825 OR R7, R0, R20
+	PC <-- 00000050
+	R7 <-- 0000000D
+
+00000050(Core 1): 
+	I$ MISS: I$[4].tag <-- 0x1
+	34080500 ORI R8, R0, 1280
+	PC <-- 00000054
+	R8 <-- 00000500
+
+00000054(Core 1): 
+	I$ MISS: I$[5].tag <-- 0x1
+	27BDFFFC ADDIU R29, R29, -4
+	PC <-- 00000058
+	R29 <-- 0000FFF8
+
+00000058(Core 1): 
+	I$ MISS: I$[6].tag <-- 0x1
+	AFA80000 SW R8, 0(R29)
+	PC <-- 0000005C
+	D$ MISS: D$[7][1].tag <-- 0x3FF (209)
+	[0000FFF8] <-- 00000500
+
+0000005C(Core 1): 
+	I$ MISS: I$[7].tag <-- 0x1
+	0C00002B JAL 000000AC
+	PC <-- 000000AC
+	R31 <-- 00000060
+
+000000AC(Core 1): 
+	I$ MISS: I$[11].tag <-- 0x2
+	8FA80000 LW R8, 0(R29)
+	PC <-- 000000B0
+	[word read from 0000FFF8]
+	R8 <-- 00000500
+	D$[7][1] HIT with Tag = 0x3FF (210)
+
+000000B0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$ MISS: I$[15].tag <-- 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$ MISS: I$[0].tag <-- 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$ MISS: I$[1].tag <-- 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 00000304]
+	R9 <-- 0000000C
+	D$[0][0] HIT with Tag = 0xC (211)
+
+000000C8(Core 1): 
+	I$ MISS: I$[2].tag <-- 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 00000338]
+	R10 <-- 00000007
+	D$[7][0] HIT with Tag = 0xC (212)
+
+000000CC(Core 1): 
+	I$ MISS: I$[3].tag <-- 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000000
+
+000000D0(Core 1): 
+	I$ MISS: I$[4].tag <-- 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000E8
+
+000000E8(Core 1): 
+	I$ MISS: I$[10].tag <-- 0x3
+	AD0A0000 SW R10, 0(R8)
+	PC <-- 000000EC
+	D$ MISS: D$[0][1].tag <-- 0x14 (212)
+	[00000500] <-- 00000007
+
+000000EC(Core 1): 
+	I$ MISS: I$[11].tag <-- 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000F0
+	R8 <-- 00000504
+
+000000F0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x3
+	24C60004 ADDIU R6, R6, 4
+	PC <-- 000000F4
+	R6 <-- 0000033C
+
+000000F4(Core 1): 
+	I$ MISS: I$[13].tag <-- 0x3
+	24E7FFFF ADDIU R7, R7, -1
+	PC <-- 000000F8
+	R7 <-- 0000000C
+
+000000F8(Core 1): 
+	I$ MISS: I$[14].tag <-- 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 00000304]
+	R9 <-- 0000000C
+	D$[0][0] HIT with Tag = 0xC (213)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 0000033C]
+	R10 <-- 0000000B
+	D$[7][0] HIT with Tag = 0xC (214)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000000
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000E8
+
+000000E8(Core 1): 
+	I$[10] HIT with Tag = 0x3
+	AD0A0000 SW R10, 0(R8)
+	PC <-- 000000EC
+	D$[0][1] HIT with Tag = 0x14 (215)
+	[00000504] <-- 0000000B
+
+000000EC(Core 1): 
+	I$[11] HIT with Tag = 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000F0
+	R8 <-- 00000508
+
+000000F0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x3
+	24C60004 ADDIU R6, R6, 4
+	PC <-- 000000F4
+	R6 <-- 00000340
+
+000000F4(Core 1): 
+	I$[13] HIT with Tag = 0x3
+	24E7FFFF ADDIU R7, R7, -1
+	PC <-- 000000F8
+	R7 <-- 0000000B
+
+000000F8(Core 1): 
+	I$[14] HIT with Tag = 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 00000304]
+	R9 <-- 0000000C
+	D$[0][0] HIT with Tag = 0xC (216)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 00000340]
+	R10 <-- 00000016
+	D$ MISS: D$[0][1].tag <-- 0xD (216)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000001
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000D4
+
+000000D4(Core 1): 
+	I$ MISS: I$[5].tag <-- 0x3
+	AD090000 SW R9, 0(R8)
+	PC <-- 000000D8
+	D$ MISS: D$[1][0].tag <-- 0x14 (216)
+	[00000508] <-- 0000000C
+
+000000D8(Core 1): 
+	I$ MISS: I$[6].tag <-- 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000DC
+	R8 <-- 0000050C
+
+000000DC(Core 1): 
+	I$ MISS: I$[7].tag <-- 0x3
+	24840004 ADDIU R4, R4, 4
+	PC <-- 000000E0
+	R4 <-- 00000308
+
+000000E0(Core 1): 
+	I$ MISS: I$[8].tag <-- 0x3
+	24A5FFFF ADDIU R5, R5, -1
+	PC <-- 000000E4
+	R5 <-- 0000000C
+
+000000E4(Core 1): 
+	I$ MISS: I$[9].tag <-- 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$[12] HIT with Tag = 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 00000308]
+	R9 <-- 00000015
+	D$ MISS: D$[1][1].tag <-- 0xC (216)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 00000340]
+	R10 <-- 00000016
+	D$[0][1] HIT with Tag = 0xD (217)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000001
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000D4
+
+000000D4(Core 1): 
+	I$[5] HIT with Tag = 0x3
+	AD090000 SW R9, 0(R8)
+	PC <-- 000000D8
+	D$[1][0] HIT with Tag = 0x14 (218)
+	[0000050C] <-- 00000015
+
+000000D8(Core 1): 
+	I$[6] HIT with Tag = 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000DC
+	R8 <-- 00000510
+
+000000DC(Core 1): 
+	I$[7] HIT with Tag = 0x3
+	24840004 ADDIU R4, R4, 4
+	PC <-- 000000E0
+	R4 <-- 0000030C
+
+000000E0(Core 1): 
+	I$[8] HIT with Tag = 0x3
+	24A5FFFF ADDIU R5, R5, -1
+	PC <-- 000000E4
+	R5 <-- 0000000B
+
+000000E4(Core 1): 
+	I$[9] HIT with Tag = 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$[12] HIT with Tag = 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 0000030C]
+	R9 <-- 00000016
+	D$[1][1] HIT with Tag = 0xC (219)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 00000340]
+	R10 <-- 00000016
+	D$[0][1] HIT with Tag = 0xD (220)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000000
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000E8
+
+000000E8(Core 1): 
+	I$[10] HIT with Tag = 0x3
+	AD0A0000 SW R10, 0(R8)
+	PC <-- 000000EC
+	D$ MISS: D$[2][0].tag <-- 0x14 (220)
+	[00000510] <-- 00000016
+
+000000EC(Core 1): 
+	I$[11] HIT with Tag = 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000F0
+	R8 <-- 00000514
+
+000000F0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x3
+	24C60004 ADDIU R6, R6, 4
+	PC <-- 000000F4
+	R6 <-- 00000344
+
+000000F4(Core 1): 
+	I$[13] HIT with Tag = 0x3
+	24E7FFFF ADDIU R7, R7, -1
+	PC <-- 000000F8
+	R7 <-- 0000000A
+
+000000F8(Core 1): 
+	I$[14] HIT with Tag = 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 0000030C]
+	R9 <-- 00000016
+	D$[1][1] HIT with Tag = 0xC (221)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 00000344]
+	R10 <-- 0000001B
+	D$[0][1] HIT with Tag = 0xD (222)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000001
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000D4
+
+000000D4(Core 1): 
+	I$[5] HIT with Tag = 0x3
+	AD090000 SW R9, 0(R8)
+	PC <-- 000000D8
+	D$[2][0] HIT with Tag = 0x14 (223)
+	[00000514] <-- 00000016
+
+000000D8(Core 1): 
+	I$[6] HIT with Tag = 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000DC
+	R8 <-- 00000518
+
+000000DC(Core 1): 
+	I$[7] HIT with Tag = 0x3
+	24840004 ADDIU R4, R4, 4
+	PC <-- 000000E0
+	R4 <-- 00000310
+
+000000E0(Core 1): 
+	I$[8] HIT with Tag = 0x3
+	24A5FFFF ADDIU R5, R5, -1
+	PC <-- 000000E4
+	R5 <-- 0000000A
+
+000000E4(Core 1): 
+	I$[9] HIT with Tag = 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$[12] HIT with Tag = 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 00000310]
+	R9 <-- 00000019
+	D$ MISS: D$[2][1].tag <-- 0xC (223)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 00000344]
+	R10 <-- 0000001B
+	D$[0][1] HIT with Tag = 0xD (224)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000001
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000D4
+
+000000D4(Core 1): 
+	I$[5] HIT with Tag = 0x3
+	AD090000 SW R9, 0(R8)
+	PC <-- 000000D8
+	D$ MISS: D$[3][0].tag <-- 0x14 (224)
+	[00000518] <-- 00000019
+
+000000D8(Core 1): 
+	I$[6] HIT with Tag = 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000DC
+	R8 <-- 0000051C
+
+000000DC(Core 1): 
+	I$[7] HIT with Tag = 0x3
+	24840004 ADDIU R4, R4, 4
+	PC <-- 000000E0
+	R4 <-- 00000314
+
+000000E0(Core 1): 
+	I$[8] HIT with Tag = 0x3
+	24A5FFFF ADDIU R5, R5, -1
+	PC <-- 000000E4
+	R5 <-- 00000009
+
+000000E4(Core 1): 
+	I$[9] HIT with Tag = 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$[12] HIT with Tag = 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 00000314]
+	R9 <-- 00000029
+	D$[2][1] HIT with Tag = 0xC (225)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 00000344]
+	R10 <-- 0000001B
+	D$[0][1] HIT with Tag = 0xD (226)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000000
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000E8
+
+000000E8(Core 1): 
+	I$[10] HIT with Tag = 0x3
+	AD0A0000 SW R10, 0(R8)
+	PC <-- 000000EC
+	D$[3][0] HIT with Tag = 0x14 (227)
+	[0000051C] <-- 0000001B
+
+000000EC(Core 1): 
+	I$[11] HIT with Tag = 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000F0
+	R8 <-- 00000520
+
+000000F0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x3
+	24C60004 ADDIU R6, R6, 4
+	PC <-- 000000F4
+	R6 <-- 00000348
+
+000000F4(Core 1): 
+	I$[13] HIT with Tag = 0x3
+	24E7FFFF ADDIU R7, R7, -1
+	PC <-- 000000F8
+	R7 <-- 00000009
+
+000000F8(Core 1): 
+	I$[14] HIT with Tag = 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 00000314]
+	R9 <-- 00000029
+	D$[2][1] HIT with Tag = 0xC (228)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 00000348]
+	R10 <-- 0000001D
+	D$ MISS: D$[1][0].tag <-- 0xD (228)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000000
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000E8
+
+000000E8(Core 1): 
+	I$[10] HIT with Tag = 0x3
+	AD0A0000 SW R10, 0(R8)
+	PC <-- 000000EC
+	D$ MISS: D$[4][0].tag <-- 0x14 (228)
+	[00000520] <-- 0000001D
+
+000000EC(Core 1): 
+	I$[11] HIT with Tag = 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000F0
+	R8 <-- 00000524
+
+000000F0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x3
+	24C60004 ADDIU R6, R6, 4
+	PC <-- 000000F4
+	R6 <-- 0000034C
+
+000000F4(Core 1): 
+	I$[13] HIT with Tag = 0x3
+	24E7FFFF ADDIU R7, R7, -1
+	PC <-- 000000F8
+	R7 <-- 00000008
+
+000000F8(Core 1): 
+	I$[14] HIT with Tag = 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 00000314]
+	R9 <-- 00000029
+	D$[2][1] HIT with Tag = 0xC (229)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 0000034C]
+	R10 <-- 00000020
+	D$[1][0] HIT with Tag = 0xD (230)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000000
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000E8
+
+000000E8(Core 1): 
+	I$[10] HIT with Tag = 0x3
+	AD0A0000 SW R10, 0(R8)
+	PC <-- 000000EC
+	D$[4][0] HIT with Tag = 0x14 (231)
+	[00000524] <-- 00000020
+
+000000EC(Core 1): 
+	I$[11] HIT with Tag = 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000F0
+	R8 <-- 00000528
+
+000000F0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x3
+	24C60004 ADDIU R6, R6, 4
+	PC <-- 000000F4
+	R6 <-- 00000350
+
+000000F4(Core 1): 
+	I$[13] HIT with Tag = 0x3
+	24E7FFFF ADDIU R7, R7, -1
+	PC <-- 000000F8
+	R7 <-- 00000007
+
+000000F8(Core 1): 
+	I$[14] HIT with Tag = 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 00000314]
+	R9 <-- 00000029
+	D$[2][1] HIT with Tag = 0xC (232)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 00000350]
+	R10 <-- 00000021
+	D$ MISS: D$[2][0].tag <-- 0xD (232)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000000
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000E8
+
+000000E8(Core 1): 
+	I$[10] HIT with Tag = 0x3
+	AD0A0000 SW R10, 0(R8)
+	PC <-- 000000EC
+	D$ MISS: D$[5][0].tag <-- 0x14 (232)
+	[00000528] <-- 00000021
+
+000000EC(Core 1): 
+	I$[11] HIT with Tag = 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000F0
+	R8 <-- 0000052C
+
+000000F0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x3
+	24C60004 ADDIU R6, R6, 4
+	PC <-- 000000F4
+	R6 <-- 00000354
+
+000000F4(Core 1): 
+	I$[13] HIT with Tag = 0x3
+	24E7FFFF ADDIU R7, R7, -1
+	PC <-- 000000F8
+	R7 <-- 00000006
+
+000000F8(Core 1): 
+	I$[14] HIT with Tag = 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 00000314]
+	R9 <-- 00000029
+	D$[2][1] HIT with Tag = 0xC (233)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 00000354]
+	R10 <-- 0000003D
+	D$[2][0] HIT with Tag = 0xD (234)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000001
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000D4
+
+000000D4(Core 1): 
+	I$[5] HIT with Tag = 0x3
+	AD090000 SW R9, 0(R8)
+	PC <-- 000000D8
+	D$[5][0] HIT with Tag = 0x14 (235)
+	[0000052C] <-- 00000029
+
+000000D8(Core 1): 
+	I$[6] HIT with Tag = 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000DC
+	R8 <-- 00000530
+
+000000DC(Core 1): 
+	I$[7] HIT with Tag = 0x3
+	24840004 ADDIU R4, R4, 4
+	PC <-- 000000E0
+	R4 <-- 00000318
+
+000000E0(Core 1): 
+	I$[8] HIT with Tag = 0x3
+	24A5FFFF ADDIU R5, R5, -1
+	PC <-- 000000E4
+	R5 <-- 00000008
+
+000000E4(Core 1): 
+	I$[9] HIT with Tag = 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$[12] HIT with Tag = 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 00000318]
+	R9 <-- 00000033
+	D$ MISS: D$[3][1].tag <-- 0xC (235)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 00000354]
+	R10 <-- 0000003D
+	D$[2][0] HIT with Tag = 0xD (236)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000001
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000D4
+
+000000D4(Core 1): 
+	I$[5] HIT with Tag = 0x3
+	AD090000 SW R9, 0(R8)
+	PC <-- 000000D8
+	D$ MISS: D$[6][1].tag <-- 0x14 (236)
+	[00000530] <-- 00000033
+
+000000D8(Core 1): 
+	I$[6] HIT with Tag = 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000DC
+	R8 <-- 00000534
+
+000000DC(Core 1): 
+	I$[7] HIT with Tag = 0x3
+	24840004 ADDIU R4, R4, 4
+	PC <-- 000000E0
+	R4 <-- 0000031C
+
+000000E0(Core 1): 
+	I$[8] HIT with Tag = 0x3
+	24A5FFFF ADDIU R5, R5, -1
+	PC <-- 000000E4
+	R5 <-- 00000007
+
+000000E4(Core 1): 
+	I$[9] HIT with Tag = 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$[12] HIT with Tag = 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 0000031C]
+	R9 <-- 0000003E
+	D$[3][1] HIT with Tag = 0xC (237)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 00000354]
+	R10 <-- 0000003D
+	D$[2][0] HIT with Tag = 0xD (238)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000000
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000E8
+
+000000E8(Core 1): 
+	I$[10] HIT with Tag = 0x3
+	AD0A0000 SW R10, 0(R8)
+	PC <-- 000000EC
+	D$[6][1] HIT with Tag = 0x14 (239)
+	[00000534] <-- 0000003D
+
+000000EC(Core 1): 
+	I$[11] HIT with Tag = 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000F0
+	R8 <-- 00000538
+
+000000F0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x3
+	24C60004 ADDIU R6, R6, 4
+	PC <-- 000000F4
+	R6 <-- 00000358
+
+000000F4(Core 1): 
+	I$[13] HIT with Tag = 0x3
+	24E7FFFF ADDIU R7, R7, -1
+	PC <-- 000000F8
+	R7 <-- 00000005
+
+000000F8(Core 1): 
+	I$[14] HIT with Tag = 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 0000031C]
+	R9 <-- 0000003E
+	D$[3][1] HIT with Tag = 0xC (240)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 00000358]
+	R10 <-- 00000042
+	D$ MISS: D$[3][0].tag <-- 0xD (240)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000001
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000D4
+
+000000D4(Core 1): 
+	I$[5] HIT with Tag = 0x3
+	AD090000 SW R9, 0(R8)
+	PC <-- 000000D8
+	D$ MISS: D$[7][1].tag <-- 0x14 (240)
+	[00000538] <-- 0000003E
+
+000000D8(Core 1): 
+	I$[6] HIT with Tag = 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000DC
+	R8 <-- 0000053C
+
+000000DC(Core 1): 
+	I$[7] HIT with Tag = 0x3
+	24840004 ADDIU R4, R4, 4
+	PC <-- 000000E0
+	R4 <-- 00000320
+
+000000E0(Core 1): 
+	I$[8] HIT with Tag = 0x3
+	24A5FFFF ADDIU R5, R5, -1
+	PC <-- 000000E4
+	R5 <-- 00000006
+
+000000E4(Core 1): 
+	I$[9] HIT with Tag = 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$[12] HIT with Tag = 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 00000320]
+	R9 <-- 00000047
+	D$ MISS: D$[4][1].tag <-- 0xC (240)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 00000358]
+	R10 <-- 00000042
+	D$[3][0] HIT with Tag = 0xD (241)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000000
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000E8
+
+000000E8(Core 1): 
+	I$[10] HIT with Tag = 0x3
+	AD0A0000 SW R10, 0(R8)
+	PC <-- 000000EC
+	D$[7][1] HIT with Tag = 0x14 (242)
+	[0000053C] <-- 00000042
+
+000000EC(Core 1): 
+	I$[11] HIT with Tag = 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000F0
+	R8 <-- 00000540
+
+000000F0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x3
+	24C60004 ADDIU R6, R6, 4
+	PC <-- 000000F4
+	R6 <-- 0000035C
+
+000000F4(Core 1): 
+	I$[13] HIT with Tag = 0x3
+	24E7FFFF ADDIU R7, R7, -1
+	PC <-- 000000F8
+	R7 <-- 00000004
+
+000000F8(Core 1): 
+	I$[14] HIT with Tag = 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 00000320]
+	R9 <-- 00000047
+	D$[4][1] HIT with Tag = 0xC (243)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 0000035C]
+	R10 <-- 0000004D
+	D$[3][0] HIT with Tag = 0xD (244)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000001
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000D4
+
+000000D4(Core 1): 
+	I$[5] HIT with Tag = 0x3
+	AD090000 SW R9, 0(R8)
+	PC <-- 000000D8
+	D$ MISS: D$[0][0].tag <-- 0x15 (244)
+	[00000540] <-- 00000047
+
+000000D8(Core 1): 
+	I$[6] HIT with Tag = 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000DC
+	R8 <-- 00000544
+
+000000DC(Core 1): 
+	I$[7] HIT with Tag = 0x3
+	24840004 ADDIU R4, R4, 4
+	PC <-- 000000E0
+	R4 <-- 00000324
+
+000000E0(Core 1): 
+	I$[8] HIT with Tag = 0x3
+	24A5FFFF ADDIU R5, R5, -1
+	PC <-- 000000E4
+	R5 <-- 00000005
+
+000000E4(Core 1): 
+	I$[9] HIT with Tag = 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$[12] HIT with Tag = 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 00000324]
+	R9 <-- 0000004B
+	D$[4][1] HIT with Tag = 0xC (245)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 0000035C]
+	R10 <-- 0000004D
+	D$[3][0] HIT with Tag = 0xD (246)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000001
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000D4
+
+000000D4(Core 1): 
+	I$[5] HIT with Tag = 0x3
+	AD090000 SW R9, 0(R8)
+	PC <-- 000000D8
+	D$[0][0] HIT with Tag = 0x15 (247)
+	[00000544] <-- 0000004B
+
+000000D8(Core 1): 
+	I$[6] HIT with Tag = 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000DC
+	R8 <-- 00000548
+
+000000DC(Core 1): 
+	I$[7] HIT with Tag = 0x3
+	24840004 ADDIU R4, R4, 4
+	PC <-- 000000E0
+	R4 <-- 00000328
+
+000000E0(Core 1): 
+	I$[8] HIT with Tag = 0x3
+	24A5FFFF ADDIU R5, R5, -1
+	PC <-- 000000E4
+	R5 <-- 00000004
+
+000000E4(Core 1): 
+	I$[9] HIT with Tag = 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$[12] HIT with Tag = 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 00000328]
+	R9 <-- 00000050
+	D$ MISS: D$[5][1].tag <-- 0xC (247)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 0000035C]
+	R10 <-- 0000004D
+	D$[3][0] HIT with Tag = 0xD (248)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000000
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000E8
+
+000000E8(Core 1): 
+	I$[10] HIT with Tag = 0x3
+	AD0A0000 SW R10, 0(R8)
+	PC <-- 000000EC
+	D$ MISS: D$[1][1].tag <-- 0x15 (248)
+	[00000548] <-- 0000004D
+
+000000EC(Core 1): 
+	I$[11] HIT with Tag = 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000F0
+	R8 <-- 0000054C
+
+000000F0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x3
+	24C60004 ADDIU R6, R6, 4
+	PC <-- 000000F4
+	R6 <-- 00000360
+
+000000F4(Core 1): 
+	I$[13] HIT with Tag = 0x3
+	24E7FFFF ADDIU R7, R7, -1
+	PC <-- 000000F8
+	R7 <-- 00000003
+
+000000F8(Core 1): 
+	I$[14] HIT with Tag = 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 00000328]
+	R9 <-- 00000050
+	D$[5][1] HIT with Tag = 0xC (249)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 00000360]
+	R10 <-- 00000051
+	D$ MISS: D$[4][0].tag <-- 0xD (249)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000001
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000D4
+
+000000D4(Core 1): 
+	I$[5] HIT with Tag = 0x3
+	AD090000 SW R9, 0(R8)
+	PC <-- 000000D8
+	D$[1][1] HIT with Tag = 0x15 (250)
+	[0000054C] <-- 00000050
+
+000000D8(Core 1): 
+	I$[6] HIT with Tag = 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000DC
+	R8 <-- 00000550
+
+000000DC(Core 1): 
+	I$[7] HIT with Tag = 0x3
+	24840004 ADDIU R4, R4, 4
+	PC <-- 000000E0
+	R4 <-- 0000032C
+
+000000E0(Core 1): 
+	I$[8] HIT with Tag = 0x3
+	24A5FFFF ADDIU R5, R5, -1
+	PC <-- 000000E4
+	R5 <-- 00000003
+
+000000E4(Core 1): 
+	I$[9] HIT with Tag = 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$[12] HIT with Tag = 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 0000032C]
+	R9 <-- 00000051
+	D$[5][1] HIT with Tag = 0xC (251)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 00000360]
+	R10 <-- 00000051
+	D$[4][0] HIT with Tag = 0xD (252)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000000
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000E8
+
+000000E8(Core 1): 
+	I$[10] HIT with Tag = 0x3
+	AD0A0000 SW R10, 0(R8)
+	PC <-- 000000EC
+	D$ MISS: D$[2][1].tag <-- 0x15 (252)
+	[00000550] <-- 00000051
+
+000000EC(Core 1): 
+	I$[11] HIT with Tag = 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000F0
+	R8 <-- 00000554
+
+000000F0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x3
+	24C60004 ADDIU R6, R6, 4
+	PC <-- 000000F4
+	R6 <-- 00000364
+
+000000F4(Core 1): 
+	I$[13] HIT with Tag = 0x3
+	24E7FFFF ADDIU R7, R7, -1
+	PC <-- 000000F8
+	R7 <-- 00000002
+
+000000F8(Core 1): 
+	I$[14] HIT with Tag = 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 0000032C]
+	R9 <-- 00000051
+	D$[5][1] HIT with Tag = 0xC (253)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 00000364]
+	R10 <-- 00000063
+	D$[4][0] HIT with Tag = 0xD (254)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000001
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000D4
+
+000000D4(Core 1): 
+	I$[5] HIT with Tag = 0x3
+	AD090000 SW R9, 0(R8)
+	PC <-- 000000D8
+	D$[2][1] HIT with Tag = 0x15 (255)
+	[00000554] <-- 00000051
+
+000000D8(Core 1): 
+	I$[6] HIT with Tag = 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000DC
+	R8 <-- 00000558
+
+000000DC(Core 1): 
+	I$[7] HIT with Tag = 0x3
+	24840004 ADDIU R4, R4, 4
+	PC <-- 000000E0
+	R4 <-- 00000330
+
+000000E0(Core 1): 
+	I$[8] HIT with Tag = 0x3
+	24A5FFFF ADDIU R5, R5, -1
+	PC <-- 000000E4
+	R5 <-- 00000002
+
+000000E4(Core 1): 
+	I$[9] HIT with Tag = 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$[12] HIT with Tag = 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 00000330]
+	R9 <-- 00000053
+	D$[6][0] HIT with Tag = 0xC (256)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 00000364]
+	R10 <-- 00000063
+	D$[4][0] HIT with Tag = 0xD (257)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000001
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000D4
+
+000000D4(Core 1): 
+	I$[5] HIT with Tag = 0x3
+	AD090000 SW R9, 0(R8)
+	PC <-- 000000D8
+	D$ MISS: D$[3][1].tag <-- 0x15 (257)
+	[00000558] <-- 00000053
+
+000000D8(Core 1): 
+	I$[6] HIT with Tag = 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000DC
+	R8 <-- 0000055C
+
+000000DC(Core 1): 
+	I$[7] HIT with Tag = 0x3
+	24840004 ADDIU R4, R4, 4
+	PC <-- 000000E0
+	R4 <-- 00000334
+
+000000E0(Core 1): 
+	I$[8] HIT with Tag = 0x3
+	24A5FFFF ADDIU R5, R5, -1
+	PC <-- 000000E4
+	R5 <-- 00000001
+
+000000E4(Core 1): 
+	I$[9] HIT with Tag = 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$[12] HIT with Tag = 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 000000C4
+
+000000C4(Core 1): 
+	I$[1] HIT with Tag = 0x3
+	8C890000 LW R9, 0(R4)
+	PC <-- 000000C8
+	[word read from 00000334]
+	R9 <-- 0000005A
+	D$[6][0] HIT with Tag = 0xC (258)
+
+000000C8(Core 1): 
+	I$[2] HIT with Tag = 0x3
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 000000CC
+	[word read from 00000364]
+	R10 <-- 00000063
+	D$[4][0] HIT with Tag = 0xD (259)
+
+000000CC(Core 1): 
+	I$[3] HIT with Tag = 0x3
+	012A082A SLT R1, R9, R10
+	PC <-- 000000D0
+	R1 <-- 00000001
+
+000000D0(Core 1): 
+	I$[4] HIT with Tag = 0x3
+	10200005 BEQ R0, R1, 232
+	PC <-- 000000D4
+
+000000D4(Core 1): 
+	I$[5] HIT with Tag = 0x3
+	AD090000 SW R9, 0(R8)
+	PC <-- 000000D8
+	D$[3][1] HIT with Tag = 0x15 (260)
+	[0000055C] <-- 0000005A
+
+000000D8(Core 1): 
+	I$[6] HIT with Tag = 0x3
+	25080004 ADDIU R8, R8, 4
+	PC <-- 000000DC
+	R8 <-- 00000560
+
+000000DC(Core 1): 
+	I$[7] HIT with Tag = 0x3
+	24840004 ADDIU R4, R4, 4
+	PC <-- 000000E0
+	R4 <-- 00000338
+
+000000E0(Core 1): 
+	I$[8] HIT with Tag = 0x3
+	24A5FFFF ADDIU R5, R5, -1
+	PC <-- 000000E4
+	R5 <-- 00000000
+
+000000E4(Core 1): 
+	I$[9] HIT with Tag = 0x3
+	0800002C J 000000B0
+	PC <-- 000000B0
+
+000000B0(Core 1): 
+	I$[12] HIT with Tag = 0x2
+	14A00002 BNE R5, R0, 188
+	PC <-- 000000B4
+
+000000B4(Core 1): 
+	I$ MISS: I$[13].tag <-- 0x2
+	14E00001 BNE R7, R0, 188
+	PC <-- 000000BC
+
+000000BC(Core 1): 
+	I$[15] HIT with Tag = 0x2
+	10E0000F BEQ R0, R7, 252
+	PC <-- 000000C0
+
+000000C0(Core 1): 
+	I$[0] HIT with Tag = 0x3
+	10A00015 BEQ R0, R5, 280
+	PC <-- 00000118
+
+00000118(Core 1): 
+	I$ MISS: I$[6].tag <-- 0x4
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 0000011C
+	[word read from 00000364]
+	R10 <-- 00000063
+	D$[4][0] HIT with Tag = 0xD (261)
+
+0000011C(Core 1): 
+	I$ MISS: I$[7].tag <-- 0x4
+	AD0A0000 SW R10, 0(R8)
+	PC <-- 00000120
+	D$ MISS: D$[4][1].tag <-- 0x15 (261)
+	[00000560] <-- 00000063
+
+00000120(Core 1): 
+	I$ MISS: I$[8].tag <-- 0x4
+	25080004 ADDIU R8, R8, 4
+	PC <-- 00000124
+	R8 <-- 00000564
+
+00000124(Core 1): 
+	I$ MISS: I$[9].tag <-- 0x4
+	24E7FFFF ADDIU R7, R7, -1
+	PC <-- 00000128
+	R7 <-- 00000001
+
+00000128(Core 1): 
+	I$ MISS: I$[10].tag <-- 0x4
+	24C60004 ADDIU R6, R6, 4
+	PC <-- 0000012C
+	R6 <-- 00000368
+
+0000012C(Core 1): 
+	I$ MISS: I$[11].tag <-- 0x4
+	10E00001 BEQ R0, R7, 308
+	PC <-- 00000130
+
+00000130(Core 1): 
+	I$ MISS: I$[12].tag <-- 0x4
+	08000046 J 00000118
+	PC <-- 00000118
+
+00000118(Core 1): 
+	I$[6] HIT with Tag = 0x4
+	8CCA0000 LW R10, 0(R6)
+	PC <-- 0000011C
+	[word read from 00000368]
+	R10 <-- 00000064
+	D$ MISS: D$[5][0].tag <-- 0xD (261)
+
+0000011C(Core 1): 
+	I$[7] HIT with Tag = 0x4
+	AD0A0000 SW R10, 0(R8)
+	PC <-- 00000120
+	D$[4][1] HIT with Tag = 0x15 (262)
+	[00000564] <-- 00000064
+
+00000120(Core 1): 
+	I$[8] HIT with Tag = 0x4
+	25080004 ADDIU R8, R8, 4
+	PC <-- 00000124
+	R8 <-- 00000568
+
+00000124(Core 1): 
+	I$[9] HIT with Tag = 0x4
+	24E7FFFF ADDIU R7, R7, -1
+	PC <-- 00000128
+	R7 <-- 00000000
+
+00000128(Core 1): 
+	I$[10] HIT with Tag = 0x4
+	24C60004 ADDIU R6, R6, 4
+	PC <-- 0000012C
+	R6 <-- 0000036C
+
+0000012C(Core 1): 
+	I$[11] HIT with Tag = 0x4
+	10E00001 BEQ R0, R7, 308
+	PC <-- 00000134
+
+00000134(Core 1): 
+	I$ MISS: I$[13].tag <-- 0x4
+	03E00008 JR R31
+	PC <-- 00000060
+
+00000060(Core 1): 
+	I$ MISS: I$[8].tag <-- 0x1
+	27BD0004 ADDIU R29, R29, 4
+	PC <-- 00000064
+	R29 <-- 0000FFFC
+
+00000064(Core 1): 
+	I$ MISS: I$[9].tag <-- 0x1
+	FFFFFFFF HALT
+	PC <-- 00000068
+HALT executed(Core 1).
+Hit count stored to memory
+	[00003100] <-- 00000106
+Done simulating...
+
+Instruction Breakdown:
+
+	  SLL:    3 (0.26%)
+	    J:  129 (11.35%)
+	  JAL:    3 (0.26%)
+	  BEQ:  300 (26.39%)
+	  BNE:   26 (2.29%)
+	 ADDIU:  184 (16.18%)
+	  ORI:    7 (0.62%)
+	  SRL:    2 (0.18%)
+	   LW:  170 (14.95%)
+	   SW:  131 (11.52%)
+	 HALT:    1 (0.09%)
+	   JR:    3 (0.26%)
+	 ADDU:   25 (2.20%)
+	 SUBU:    1 (0.09%)
+	   OR:    8 (0.70%)
+	  SLT:  118 (10.38%)
+	 SLTU:   26 (2.29%)
+	 TOTAL: 1137
+
+	PC: 00000068
+
+ICache:
+	 Accesses:	1137
+	 Hits:		1037
+	 Hit Rate:	91%
+DCache:
+	 Accesses:	301
+	 Hits:		262
+	 Hit Rate:	87%
+
+General Purpose Registers:
+	R 0: 00000000	R 1: 00000001	R 2: 00000000	R 3: 00000000
+	R 4: 00000338	R 5: 00000000	R 6: 0000036C	R 7: 00000000
+	R 8: 00000568	R 9: 0000005A	R10: 00000064	R11: 00000000
+	R12: 00000000	R13: 00000000	R14: 00000000	R15: 0000001D
+	R16: 0000001A	R17: 00000304	R18: 0000000D	R19: 00000338
+	R20: 0000000D	R21: 00000000	R22: 00000000	R23: 00000000
+	R24: 00000020	R25: 0000034C	R26: 00000000	R27: 00000000
+	R28: 00000000	R29: 0000FFFC	R30: 0000FFFC	R31: 00000060

@@ -1,0 +1,1349 @@
+processing file asmFiles/count_days.asm (1 of 18)
+processing file asmFiles/count_days.asm (1 of 18)
+vlog +acc -sv12compat -mfcu -lint +incdir+include  source/Dcache.sv
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface datapath_cache_if
+-- Importing package cpu_types_pkg
+-- Compiling interface cache_control_if
+-- Compiling module Dcache
+** Note: (vlog-143) Recognized 1 FSM in module "Dcache(verilog)".
+
+Top level modules:
+	Dcache
+vlog +acc -sv12compat -mfcu -lint +incdir+include  source/Icache.sv
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface datapath_cache_if
+-- Importing package cpu_types_pkg
+-- Compiling interface cache_control_if
+-- Compiling module Icache
+
+Top level modules:
+	Icache
+vlog +acc -sv12compat -mfcu -lint +incdir+include  source/alu.sv
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface alu_if
+-- Importing package cpu_types_pkg
+-- Compiling package alu_sv_unit
+-- Importing package cpu_types_pkg
+-- Compiling module alu
+
+Top level modules:
+	alu
+vlog +acc -sv12compat -mfcu -lint +incdir+include  include/alu_if.vh
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface alu_if
+-- Importing package cpu_types_pkg
+
+Top level modules:
+	--none--
+vlog +acc -sv12compat -mfcu -lint +incdir+include  include/cache_control_if.vh
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface cache_control_if
+-- Importing package cpu_types_pkg
+
+Top level modules:
+	--none--
+vlog +acc -sv12compat -mfcu -lint +incdir+include  source/caches.sv
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface datapath_cache_if
+-- Importing package cpu_types_pkg
+-- Compiling interface cache_control_if
+-- Compiling module caches
+
+Top level modules:
+	caches
+vlog +acc -sv12compat -mfcu -lint +incdir+include  source/control_unit.sv
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface control_unit_if
+-- Importing package cpu_types_pkg
+-- Compiling package control_unit_sv_unit
+-- Importing package cpu_types_pkg
+-- Compiling module control_unit
+
+Top level modules:
+	control_unit
+vlog +acc -sv12compat -mfcu -lint +incdir+include  include/control_unit_if.vh
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface control_unit_if
+-- Importing package cpu_types_pkg
+
+Top level modules:
+	--none--
+vlog +acc -sv12compat -mfcu -lint +incdir+include  include/cpu_ram_if.vh
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface cpu_ram_if
+-- Importing package cpu_types_pkg
+
+Top level modules:
+	--none--
+vlog +acc -sv12compat -mfcu -lint +incdir+include  include/cpu_types_pkg.vh
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+
+Top level modules:
+	--none--
+vlog +acc -sv12compat -mfcu -lint +incdir+include  source/datapath.sv
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface datapath_cache_if
+-- Importing package cpu_types_pkg
+-- Compiling interface control_unit_if
+-- Compiling interface memory_request_if
+-- Compiling interface register_file_if
+-- Compiling interface pipeline_registers_if
+-- Compiling interface alu_if
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+vlog +acc -sv12compat -mfcu -lint +incdir+include  include/datapath_cache_if.vh
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface datapath_cache_if
+-- Importing package cpu_types_pkg
+
+Top level modules:
+	--none--
+vlog +acc -sv12compat -mfcu -lint +incdir+include  source/hazard_unit.sv
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface hazard_unit_if
+-- Importing package cpu_types_pkg
+-- Compiling package hazard_unit_sv_unit
+-- Importing package cpu_types_pkg
+-- Compiling module hazard_unit
+
+Top level modules:
+	hazard_unit
+vlog +acc -sv12compat -mfcu -lint +incdir+include  include/hazard_unit_if.vh
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface hazard_unit_if
+-- Importing package cpu_types_pkg
+
+Top level modules:
+	--none--
+vlog +acc -sv12compat -mfcu -lint +incdir+include  source/memory_control.sv
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface cache_control_if
+-- Importing package cpu_types_pkg
+-- Compiling module memory_control
+
+Top level modules:
+	memory_control
+vlog +acc -sv12compat -mfcu -lint +incdir+include  include/memory_request_if.vh
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface memory_request_if
+-- Importing package cpu_types_pkg
+
+Top level modules:
+	--none--
+vlog +acc -sv12compat -mfcu -lint +incdir+include  source/pipeline.sv
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling module pipeline
+
+Top level modules:
+	pipeline
+vlog +acc -sv12compat -mfcu -lint +incdir+include  source/pipeline_registers.sv
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface pipeline_registers_if
+-- Importing package cpu_types_pkg
+-- Compiling package pipeline_registers_sv_unit
+-- Importing package cpu_types_pkg
+-- Compiling module pipeline_registers
+
+Top level modules:
+	pipeline_registers
+vlog +acc -sv12compat -mfcu -lint +incdir+include  include/pipeline_registers_if.vh
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+** Fatal: (SIGINT) Compile interrupted.
+** Error: Verilog Compiler exiting
+processing file asmFiles/count_days.asm (1 of 18)
+vlog +acc -sv12compat -mfcu -lint +incdir+include  source/datapath.sv
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface datapath_cache_if
+-- Importing package cpu_types_pkg
+-- Compiling interface control_unit_if
+-- Compiling interface memory_request_if
+-- Compiling interface register_file_if
+-- Compiling interface pipeline_registers_if
+-- Compiling interface alu_if
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+vlog +acc -sv12compat -mfcu -lint +incdir+include  include/pipeline_registers_if.vh
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface pipeline_registers_if
+-- Importing package cpu_types_pkg
+
+Top level modules:
+	--none--
+vlog +acc -sv12compat -mfcu -lint +incdir+include  source/ram.sv
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface cpu_ram_if
+-- Importing package cpu_types_pkg
+-- Compiling module ram
+
+Top level modules:
+	ram
+vlog +acc -sv12compat -mfcu -lint +incdir+include  source/register_file.sv
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface register_file_if
+-- Importing package cpu_types_pkg
+-- Compiling package register_file_sv_unit
+-- Importing package cpu_types_pkg
+-- Compiling module register_file
+
+Top level modules:
+	register_file
+vlog +acc -sv12compat -mfcu -lint +incdir+include  include/register_file_if.vh
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface register_file_if
+-- Importing package cpu_types_pkg
+
+Top level modules:
+	--none--
+vlog +acc -sv12compat -mfcu -lint +incdir+include  source/system.sv
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface system_if
+-- Importing package cpu_types_pkg
+-- Compiling module system
+
+Top level modules:
+	system
+vlog +acc -sv12compat -mfcu -lint +incdir+include  include/system_if.vh
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface system_if
+-- Importing package cpu_types_pkg
+
+Top level modules:
+	--none--
+vlog +acc -sv12compat -mfcu -lint +incdir+include  testbench/system_tb.sv
+Model Technology ModelSim SE-64 vlog 10.2b Compiler 2013.05 May 16 2013
+-- Compiling package cpu_types_pkg
+-- Compiling interface system_if
+-- Importing package cpu_types_pkg
+-- Compiling module system_tb
+-- Compiling program test
+
+Top level modules:
+	system_tb
+Reading /mtitcl/vsim/pref.tcl 
+
+# 10.2b
+
+# vsim -L altera_mf_ver -L altera_ver -L cycloneii_ver -L cycloneive_ver -do {run -all; exit;} -c -wlf system_tb.wlf work.system_tb 
+# //  ModelSim SE-64 10.2b May 16 2013 Linux 2.6.32-504.12.2.el6.x86_64
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.system_tb
+# Loading work.cpu_types_pkg
+# Loading work.system_if
+# Loading work.test
+# Loading work.system
+# Loading work.cpu_ram_if
+# Loading work.pipeline
+# Loading work.datapath_cache_if
+# Loading work.cache_control_if
+# Loading work.datapath
+# Loading work.control_unit_if
+# Loading work.hazard_unit_if
+# Loading work.register_file_if
+# Loading work.alu_if
+# Loading work.pipeline_registers_if
+# Loading work.control_unit_sv_unit
+# Loading work.control_unit
+# Loading work.hazard_unit_sv_unit
+# Loading work.hazard_unit
+# Loading work.register_file_sv_unit
+# Loading work.register_file
+# Loading work.alu_sv_unit
+# Loading work.alu
+# Loading work.pipeline_registers_sv_unit
+# Loading work.pipeline_registers
+# Loading work.caches
+# Loading work.Icache
+# Loading work.Dcache
+# Loading work.memory_control
+# Loading work.ram
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# run -all 
+# Break key hit 
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/control_unit.sv(27): No condition is true in the unique/priority if/case statement.
+# Break in Module altsyncram at /package/eda/altera/altera13.0sp1/quartus/eda/sim_lib/altera_mf.v line 45677
+# Stopped at /package/eda/altera/altera13.0sp1/quartus/eda/sim_lib/altera_mf.v line 45677 
+#  exit 
+processing file asmFiles/count_days.asm (1 of 18)
+Reading /mtitcl/vsim/pref.tcl 
+
+# 10.2b
+
+# vsim -L altera_mf_ver -L altera_ver -L cycloneii_ver -L cycloneive_ver -do {run -all; exit;} -c -wlf system_tb.wlf work.system_tb 
+# //  ModelSim SE-64 10.2b May 16 2013 Linux 2.6.32-504.12.2.el6.x86_64
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.system_tb
+# Loading work.cpu_types_pkg
+# Loading work.system_if
+# Loading work.test
+# Loading work.system
+# Loading work.cpu_ram_if
+# Loading work.pipeline
+# Loading work.datapath_cache_if
+# Loading work.cache_control_if
+# Loading work.datapath
+# Loading work.control_unit_if
+# Loading work.hazard_unit_if
+# Loading work.register_file_if
+# Loading work.alu_if
+# Loading work.pipeline_registers_if
+# Loading work.control_unit_sv_unit
+# Loading work.control_unit
+# Loading work.hazard_unit_sv_unit
+# Loading work.hazard_unit
+# Loading work.register_file_sv_unit
+# Loading work.register_file
+# Loading work.alu_sv_unit
+# Loading work.alu
+# Loading work.pipeline_registers_sv_unit
+# Loading work.pipeline_registers
+# Loading work.caches
+# Loading work.Icache
+# Loading work.Dcache
+# Loading work.memory_control
+# Loading work.ram
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# run -all 
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/control_unit.sv(27): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# Starting Processor.
+# Halted at 58020 time and ran for       2900 cycles.
+# Starting memory dump.
+# Finished memory dump.
+1632 instructions
+processing file asmFiles/count_days.asm~ (2 of 18)
+Reading /mtitcl/vsim/pref.tcl 
+
+# 10.2b
+
+# vsim -L altera_mf_ver -L altera_ver -L cycloneii_ver -L cycloneive_ver -do {run -all; exit;} -c -wlf system_tb.wlf work.system_tb 
+# //  ModelSim SE-64 10.2b May 16 2013 Linux 2.6.32-504.12.2.el6.x86_64
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.system_tb
+# Loading work.cpu_types_pkg
+# Loading work.system_if
+# Loading work.test
+# Loading work.system
+# Loading work.cpu_ram_if
+# Loading work.pipeline
+# Loading work.datapath_cache_if
+# Loading work.cache_control_if
+# Loading work.datapath
+# Loading work.control_unit_if
+# Loading work.hazard_unit_if
+# Loading work.register_file_if
+# Loading work.alu_if
+# Loading work.pipeline_registers_if
+# Loading work.control_unit_sv_unit
+# Loading work.control_unit
+# Loading work.hazard_unit_sv_unit
+# Loading work.hazard_unit
+# Loading work.register_file_sv_unit
+# Loading work.register_file
+# Loading work.alu_sv_unit
+# Loading work.alu
+# Loading work.pipeline_registers_sv_unit
+# Loading work.pipeline_registers
+# Loading work.caches
+# Loading work.Icache
+# Loading work.Dcache
+# Loading work.memory_control
+# Loading work.ram
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# run -all 
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/control_unit.sv(27): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# Starting Processor.
+# Halted at 58020 time and ran for       2900 cycles.
+# Starting memory dump.
+# Finished memory dump.
+1632 instructions
+processing file asmFiles/fib.asm (3 of 18)
+Reading /mtitcl/vsim/pref.tcl 
+
+# 10.2b
+
+# vsim -L altera_mf_ver -L altera_ver -L cycloneii_ver -L cycloneive_ver -do {run -all; exit;} -c -wlf system_tb.wlf work.system_tb 
+# //  ModelSim SE-64 10.2b May 16 2013 Linux 2.6.32-504.12.2.el6.x86_64
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.system_tb
+# Loading work.cpu_types_pkg
+# Loading work.system_if
+# Loading work.test
+# Loading work.system
+# Loading work.cpu_ram_if
+# Loading work.pipeline
+# Loading work.datapath_cache_if
+# Loading work.cache_control_if
+# Loading work.datapath
+# Loading work.control_unit_if
+# Loading work.hazard_unit_if
+# Loading work.register_file_if
+# Loading work.alu_if
+# Loading work.pipeline_registers_if
+# Loading work.control_unit_sv_unit
+# Loading work.control_unit
+# Loading work.hazard_unit_sv_unit
+# Loading work.hazard_unit
+# Loading work.register_file_sv_unit
+# Loading work.register_file
+# Loading work.alu_sv_unit
+# Loading work.alu
+# Loading work.pipeline_registers_sv_unit
+# Loading work.pipeline_registers
+# Loading work.caches
+# Loading work.Icache
+# Loading work.Dcache
+# Loading work.memory_control
+# Loading work.ram
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# run -all 
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/control_unit.sv(27): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# Starting Processor.
+# Halted at 54700 time and ran for       2734 cycles.
+# Starting memory dump.
+# Finished memory dump.
+706 instructions
+processing file asmFiles/fib.asm~ (4 of 18)
+Reading /mtitcl/vsim/pref.tcl 
+
+# 10.2b
+
+# vsim -L altera_mf_ver -L altera_ver -L cycloneii_ver -L cycloneive_ver -do {run -all; exit;} -c -wlf system_tb.wlf work.system_tb 
+# //  ModelSim SE-64 10.2b May 16 2013 Linux 2.6.32-504.12.2.el6.x86_64
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.system_tb
+# Loading work.cpu_types_pkg
+# Loading work.system_if
+# Loading work.test
+# Loading work.system
+# Loading work.cpu_ram_if
+# Loading work.pipeline
+# Loading work.datapath_cache_if
+# Loading work.cache_control_if
+# Loading work.datapath
+# Loading work.control_unit_if
+# Loading work.hazard_unit_if
+# Loading work.register_file_if
+# Loading work.alu_if
+# Loading work.pipeline_registers_if
+# Loading work.control_unit_sv_unit
+# Loading work.control_unit
+# Loading work.hazard_unit_sv_unit
+# Loading work.hazard_unit
+# Loading work.register_file_sv_unit
+# Loading work.register_file
+# Loading work.alu_sv_unit
+# Loading work.alu
+# Loading work.pipeline_registers_sv_unit
+# Loading work.pipeline_registers
+# Loading work.caches
+# Loading work.Icache
+# Loading work.Dcache
+# Loading work.memory_control
+# Loading work.ram
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# run -all 
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/control_unit.sv(27): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# Starting Processor.
+# Halted at 54700 time and ran for       2734 cycles.
+# Starting memory dump.
+# Finished memory dump.
+706 instructions
+processing file asmFiles/mergesort.asm (5 of 18)
+Reading /mtitcl/vsim/pref.tcl 
+
+# 10.2b
+
+# vsim -L altera_mf_ver -L altera_ver -L cycloneii_ver -L cycloneive_ver -do {run -all; exit;} -c -wlf system_tb.wlf work.system_tb 
+# //  ModelSim SE-64 10.2b May 16 2013 Linux 2.6.32-504.12.2.el6.x86_64
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.system_tb
+# Loading work.cpu_types_pkg
+# Loading work.system_if
+# Loading work.test
+# Loading work.system
+# Loading work.cpu_ram_if
+# Loading work.pipeline
+# Loading work.datapath_cache_if
+# Loading work.cache_control_if
+# Loading work.datapath
+# Loading work.control_unit_if
+# Loading work.hazard_unit_if
+# Loading work.register_file_if
+# Loading work.alu_if
+# Loading work.pipeline_registers_if
+# Loading work.control_unit_sv_unit
+# Loading work.control_unit
+# Loading work.hazard_unit_sv_unit
+# Loading work.hazard_unit
+# Loading work.register_file_sv_unit
+# Loading work.register_file
+# Loading work.alu_sv_unit
+# Loading work.alu
+# Loading work.pipeline_registers_sv_unit
+# Loading work.pipeline_registers
+# Loading work.caches
+# Loading work.Icache
+# Loading work.Dcache
+# Loading work.memory_control
+# Loading work.ram
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# run -all 
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/control_unit.sv(27): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# Starting Processor.
+# Halted at 260740 time and ran for      13036 cycles.
+# Starting memory dump.
+# Finished memory dump.
+5399 instructions
+processing file asmFiles/mergesort.asm~ (6 of 18)
+Reading /mtitcl/vsim/pref.tcl 
+
+# 10.2b
+
+# vsim -L altera_mf_ver -L altera_ver -L cycloneii_ver -L cycloneive_ver -do {run -all; exit;} -c -wlf system_tb.wlf work.system_tb 
+# //  ModelSim SE-64 10.2b May 16 2013 Linux 2.6.32-504.12.2.el6.x86_64
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.system_tb
+# Loading work.cpu_types_pkg
+# Loading work.system_if
+# Loading work.test
+# Loading work.system
+# Loading work.cpu_ram_if
+# Loading work.pipeline
+# Loading work.datapath_cache_if
+# Loading work.cache_control_if
+# Loading work.datapath
+# Loading work.control_unit_if
+# Loading work.hazard_unit_if
+# Loading work.register_file_if
+# Loading work.alu_if
+# Loading work.pipeline_registers_if
+# Loading work.control_unit_sv_unit
+# Loading work.control_unit
+# Loading work.hazard_unit_sv_unit
+# Loading work.hazard_unit
+# Loading work.register_file_sv_unit
+# Loading work.register_file
+# Loading work.alu_sv_unit
+# Loading work.alu
+# Loading work.pipeline_registers_sv_unit
+# Loading work.pipeline_registers
+# Loading work.caches
+# Loading work.Icache
+# Loading work.Dcache
+# Loading work.memory_control
+# Loading work.ram
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# run -all 
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/control_unit.sv(27): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# Starting Processor.
+# Halted at 99180 time and ran for       4958 cycles.
+# Starting memory dump.
+# Finished memory dump.
+1596 instructions
+processing file asmFiles/mergesort_old_moredata.asm (7 of 18)
+Reading /mtitcl/vsim/pref.tcl 
+
+# 10.2b
+
+# vsim -L altera_mf_ver -L altera_ver -L cycloneii_ver -L cycloneive_ver -do {run -all; exit;} -c -wlf system_tb.wlf work.system_tb 
+# //  ModelSim SE-64 10.2b May 16 2013 Linux 2.6.32-504.12.2.el6.x86_64
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.system_tb
+# Loading work.cpu_types_pkg
+# Loading work.system_if
+# Loading work.test
+# Loading work.system
+# Loading work.cpu_ram_if
+# Loading work.pipeline
+# Loading work.datapath_cache_if
+# Loading work.cache_control_if
+# Loading work.datapath
+# Loading work.control_unit_if
+# Loading work.hazard_unit_if
+# Loading work.register_file_if
+# Loading work.alu_if
+# Loading work.pipeline_registers_if
+# Loading work.control_unit_sv_unit
+# Loading work.control_unit
+# Loading work.hazard_unit_sv_unit
+# Loading work.hazard_unit
+# Loading work.register_file_sv_unit
+# Loading work.register_file
+# Loading work.alu_sv_unit
+# Loading work.alu
+# Loading work.pipeline_registers_sv_unit
+# Loading work.pipeline_registers
+# Loading work.caches
+# Loading work.Icache
+# Loading work.Dcache
+# Loading work.memory_control
+# Loading work.ram
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# run -all 
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/control_unit.sv(27): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# Starting Processor.
+# Halted at 1.1155e+06 time and ran for      55774 cycles.
+# Starting memory dump.
+# Finished memory dump.
+22464 instructions
+processing file asmFiles/mult.asm (8 of 18)
+Reading /mtitcl/vsim/pref.tcl 
+
+# 10.2b
+
+# vsim -L altera_mf_ver -L altera_ver -L cycloneii_ver -L cycloneive_ver -do {run -all; exit;} -c -wlf system_tb.wlf work.system_tb 
+# //  ModelSim SE-64 10.2b May 16 2013 Linux 2.6.32-504.12.2.el6.x86_64
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.system_tb
+# Loading work.cpu_types_pkg
+# Loading work.system_if
+# Loading work.test
+# Loading work.system
+# Loading work.cpu_ram_if
+# Loading work.pipeline
+# Loading work.datapath_cache_if
+# Loading work.cache_control_if
+# Loading work.datapath
+# Loading work.control_unit_if
+# Loading work.hazard_unit_if
+# Loading work.register_file_if
+# Loading work.alu_if
+# Loading work.pipeline_registers_if
+# Loading work.control_unit_sv_unit
+# Loading work.control_unit
+# Loading work.hazard_unit_sv_unit
+# Loading work.hazard_unit
+# Loading work.register_file_sv_unit
+# Loading work.register_file
+# Loading work.alu_sv_unit
+# Loading work.alu
+# Loading work.pipeline_registers_sv_unit
+# Loading work.pipeline_registers
+# Loading work.caches
+# Loading work.Icache
+# Loading work.Dcache
+# Loading work.memory_control
+# Loading work.ram
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# run -all 
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/control_unit.sv(27): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# Starting Processor.
+# Halted at 6340 time and ran for        316 cycles.
+# Starting memory dump.
+# Finished memory dump.
+41 instructions
+processing file asmFiles/mult_procedure.asm (9 of 18)
+Reading /mtitcl/vsim/pref.tcl 
+
+# 10.2b
+
+# vsim -L altera_mf_ver -L altera_ver -L cycloneii_ver -L cycloneive_ver -do {run -all; exit;} -c -wlf system_tb.wlf work.system_tb 
+# //  ModelSim SE-64 10.2b May 16 2013 Linux 2.6.32-504.12.2.el6.x86_64
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.system_tb
+# Loading work.cpu_types_pkg
+# Loading work.system_if
+# Loading work.test
+# Loading work.system
+# Loading work.cpu_ram_if
+# Loading work.pipeline
+# Loading work.datapath_cache_if
+# Loading work.cache_control_if
+# Loading work.datapath
+# Loading work.control_unit_if
+# Loading work.hazard_unit_if
+# Loading work.register_file_if
+# Loading work.alu_if
+# Loading work.pipeline_registers_if
+# Loading work.control_unit_sv_unit
+# Loading work.control_unit
+# Loading work.hazard_unit_sv_unit
+# Loading work.hazard_unit
+# Loading work.register_file_sv_unit
+# Loading work.register_file
+# Loading work.alu_sv_unit
+# Loading work.alu
+# Loading work.pipeline_registers_sv_unit
+# Loading work.pipeline_registers
+# Loading work.caches
+# Loading work.Icache
+# Loading work.Dcache
+# Loading work.memory_control
+# Loading work.ram
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# run -all 
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/control_unit.sv(27): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# Starting Processor.
+# Halted at 7100 time and ran for        354 cycles.
+# Starting memory dump.
+# Finished memory dump.
+37 instructions
+processing file asmFiles/search.asm (10 of 18)
+Reading /mtitcl/vsim/pref.tcl 
+
+# 10.2b
+
+# vsim -L altera_mf_ver -L altera_ver -L cycloneii_ver -L cycloneive_ver -do {run -all; exit;} -c -wlf system_tb.wlf work.system_tb 
+# //  ModelSim SE-64 10.2b May 16 2013 Linux 2.6.32-504.12.2.el6.x86_64
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.system_tb
+# Loading work.cpu_types_pkg
+# Loading work.system_if
+# Loading work.test
+# Loading work.system
+# Loading work.cpu_ram_if
+# Loading work.pipeline
+# Loading work.datapath_cache_if
+# Loading work.cache_control_if
+# Loading work.datapath
+# Loading work.control_unit_if
+# Loading work.hazard_unit_if
+# Loading work.register_file_if
+# Loading work.alu_if
+# Loading work.pipeline_registers_if
+# Loading work.control_unit_sv_unit
+# Loading work.control_unit
+# Loading work.hazard_unit_sv_unit
+# Loading work.hazard_unit
+# Loading work.register_file_sv_unit
+# Loading work.register_file
+# Loading work.alu_sv_unit
+# Loading work.alu
+# Loading work.pipeline_registers_sv_unit
+# Loading work.pipeline_registers
+# Loading work.caches
+# Loading work.Icache
+# Loading work.Dcache
+# Loading work.memory_control
+# Loading work.ram
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# run -all 
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/control_unit.sv(27): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# Starting Processor.
+# Halted at 16680 time and ran for        833 cycles.
+# Starting memory dump.
+# Finished memory dump.
+277 instructions
+processing file asmFiles/test2.asm (11 of 18)
+Reading /mtitcl/vsim/pref.tcl 
+
+# 10.2b
+
+# vsim -L altera_mf_ver -L altera_ver -L cycloneii_ver -L cycloneive_ver -do {run -all; exit;} -c -wlf system_tb.wlf work.system_tb 
+# //  ModelSim SE-64 10.2b May 16 2013 Linux 2.6.32-504.12.2.el6.x86_64
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.system_tb
+# Loading work.cpu_types_pkg
+# Loading work.system_if
+# Loading work.test
+# Loading work.system
+# Loading work.cpu_ram_if
+# Loading work.pipeline
+# Loading work.datapath_cache_if
+# Loading work.cache_control_if
+# Loading work.datapath
+# Loading work.control_unit_if
+# Loading work.hazard_unit_if
+# Loading work.register_file_if
+# Loading work.alu_if
+# Loading work.pipeline_registers_if
+# Loading work.control_unit_sv_unit
+# Loading work.control_unit
+# Loading work.hazard_unit_sv_unit
+# Loading work.hazard_unit
+# Loading work.register_file_sv_unit
+# Loading work.register_file
+# Loading work.alu_sv_unit
+# Loading work.alu
+# Loading work.pipeline_registers_sv_unit
+# Loading work.pipeline_registers
+# Loading work.caches
+# Loading work.Icache
+# Loading work.Dcache
+# Loading work.memory_control
+# Loading work.ram
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# run -all 
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/control_unit.sv(27): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# Starting Processor.
+# Halted at 2800 time and ran for        139 cycles.
+# Starting memory dump.
+# Finished memory dump.
+9 instructions
+processing file asmFiles/test2.asm~ (12 of 18)
+Reading /mtitcl/vsim/pref.tcl 
+
+# 10.2b
+
+# vsim -L altera_mf_ver -L altera_ver -L cycloneii_ver -L cycloneive_ver -do {run -all; exit;} -c -wlf system_tb.wlf work.system_tb 
+# //  ModelSim SE-64 10.2b May 16 2013 Linux 2.6.32-504.12.2.el6.x86_64
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.system_tb
+# Loading work.cpu_types_pkg
+# Loading work.system_if
+# Loading work.test
+# Loading work.system
+# Loading work.cpu_ram_if
+# Loading work.pipeline
+# Loading work.datapath_cache_if
+# Loading work.cache_control_if
+# Loading work.datapath
+# Loading work.control_unit_if
+# Loading work.hazard_unit_if
+# Loading work.register_file_if
+# Loading work.alu_if
+# Loading work.pipeline_registers_if
+# Loading work.control_unit_sv_unit
+# Loading work.control_unit
+# Loading work.hazard_unit_sv_unit
+# Loading work.hazard_unit
+# Loading work.register_file_sv_unit
+# Loading work.register_file
+# Loading work.alu_sv_unit
+# Loading work.alu
+# Loading work.pipeline_registers_sv_unit
+# Loading work.pipeline_registers
+# Loading work.caches
+# Loading work.Icache
+# Loading work.Dcache
+# Loading work.memory_control
+# Loading work.ram
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# run -all 
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/control_unit.sv(27): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# Starting Processor.
+# Halted at 2640 time and ran for        131 cycles.
+# Starting memory dump.
+# Finished memory dump.
+8 instructions
+processing file asmFiles/test.asm (13 of 18)
+Reading /mtitcl/vsim/pref.tcl 
+
+# 10.2b
+
+# vsim -L altera_mf_ver -L altera_ver -L cycloneii_ver -L cycloneive_ver -do {run -all; exit;} -c -wlf system_tb.wlf work.system_tb 
+# //  ModelSim SE-64 10.2b May 16 2013 Linux 2.6.32-504.12.2.el6.x86_64
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.system_tb
+# Loading work.cpu_types_pkg
+# Loading work.system_if
+# Loading work.test
+# Loading work.system
+# Loading work.cpu_ram_if
+# Loading work.pipeline
+# Loading work.datapath_cache_if
+# Loading work.cache_control_if
+# Loading work.datapath
+# Loading work.control_unit_if
+# Loading work.hazard_unit_if
+# Loading work.register_file_if
+# Loading work.alu_if
+# Loading work.pipeline_registers_if
+# Loading work.control_unit_sv_unit
+# Loading work.control_unit
+# Loading work.hazard_unit_sv_unit
+# Loading work.hazard_unit
+# Loading work.register_file_sv_unit
+# Loading work.register_file
+# Loading work.alu_sv_unit
+# Loading work.alu
+# Loading work.pipeline_registers_sv_unit
+# Loading work.pipeline_registers
+# Loading work.caches
+# Loading work.Icache
+# Loading work.Dcache
+# Loading work.memory_control
+# Loading work.ram
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# run -all 
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/control_unit.sv(27): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# Starting Processor.
+# Halted at 2800 time and ran for        139 cycles.
+# Starting memory dump.
+# Finished memory dump.
+9 instructions
+processing file asmFiles/test.branchjump1.asm (14 of 18)
+Reading /mtitcl/vsim/pref.tcl 
+
+# 10.2b
+
+# vsim -L altera_mf_ver -L altera_ver -L cycloneii_ver -L cycloneive_ver -do {run -all; exit;} -c -wlf system_tb.wlf work.system_tb 
+# //  ModelSim SE-64 10.2b May 16 2013 Linux 2.6.32-504.12.2.el6.x86_64
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.system_tb
+# Loading work.cpu_types_pkg
+# Loading work.system_if
+# Loading work.test
+# Loading work.system
+# Loading work.cpu_ram_if
+# Loading work.pipeline
+# Loading work.datapath_cache_if
+# Loading work.cache_control_if
+# Loading work.datapath
+# Loading work.control_unit_if
+# Loading work.hazard_unit_if
+# Loading work.register_file_if
+# Loading work.alu_if
+# Loading work.pipeline_registers_if
+# Loading work.control_unit_sv_unit
+# Loading work.control_unit
+# Loading work.hazard_unit_sv_unit
+# Loading work.hazard_unit
+# Loading work.register_file_sv_unit
+# Loading work.register_file
+# Loading work.alu_sv_unit
+# Loading work.alu
+# Loading work.pipeline_registers_sv_unit
+# Loading work.pipeline_registers
+# Loading work.caches
+# Loading work.Icache
+# Loading work.Dcache
+# Loading work.memory_control
+# Loading work.ram
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# run -all 
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/control_unit.sv(27): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# Starting Processor.
+# Halted at 3560 time and ran for        177 cycles.
+# Starting memory dump.
+# Finished memory dump.
+12 instructions
+processing file asmFiles/test.ldst1.asm (15 of 18)
+Reading /mtitcl/vsim/pref.tcl 
+
+# 10.2b
+
+# vsim -L altera_mf_ver -L altera_ver -L cycloneii_ver -L cycloneive_ver -do {run -all; exit;} -c -wlf system_tb.wlf work.system_tb 
+# //  ModelSim SE-64 10.2b May 16 2013 Linux 2.6.32-504.12.2.el6.x86_64
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.system_tb
+# Loading work.cpu_types_pkg
+# Loading work.system_if
+# Loading work.test
+# Loading work.system
+# Loading work.cpu_ram_if
+# Loading work.pipeline
+# Loading work.datapath_cache_if
+# Loading work.cache_control_if
+# Loading work.datapath
+# Loading work.control_unit_if
+# Loading work.hazard_unit_if
+# Loading work.register_file_if
+# Loading work.alu_if
+# Loading work.pipeline_registers_if
+# Loading work.control_unit_sv_unit
+# Loading work.control_unit
+# Loading work.hazard_unit_sv_unit
+# Loading work.hazard_unit
+# Loading work.register_file_sv_unit
+# Loading work.register_file
+# Loading work.alu_sv_unit
+# Loading work.alu
+# Loading work.pipeline_registers_sv_unit
+# Loading work.pipeline_registers
+# Loading work.caches
+# Loading work.Icache
+# Loading work.Dcache
+# Loading work.memory_control
+# Loading work.ram
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# run -all 
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/control_unit.sv(27): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# Starting Processor.
+# Halted at 4520 time and ran for        225 cycles.
+# Starting memory dump.
+# Finished memory dump.
+14 instructions
+processing file asmFiles/test.ldst2.asm (16 of 18)
+Reading /mtitcl/vsim/pref.tcl 
+
+# 10.2b
+
+# vsim -L altera_mf_ver -L altera_ver -L cycloneii_ver -L cycloneive_ver -do {run -all; exit;} -c -wlf system_tb.wlf work.system_tb 
+# //  ModelSim SE-64 10.2b May 16 2013 Linux 2.6.32-504.12.2.el6.x86_64
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.system_tb
+# Loading work.cpu_types_pkg
+# Loading work.system_if
+# Loading work.test
+# Loading work.system
+# Loading work.cpu_ram_if
+# Loading work.pipeline
+# Loading work.datapath_cache_if
+# Loading work.cache_control_if
+# Loading work.datapath
+# Loading work.control_unit_if
+# Loading work.hazard_unit_if
+# Loading work.register_file_if
+# Loading work.alu_if
+# Loading work.pipeline_registers_if
+# Loading work.control_unit_sv_unit
+# Loading work.control_unit
+# Loading work.hazard_unit_sv_unit
+# Loading work.hazard_unit
+# Loading work.register_file_sv_unit
+# Loading work.register_file
+# Loading work.alu_sv_unit
+# Loading work.alu
+# Loading work.pipeline_registers_sv_unit
+# Loading work.pipeline_registers
+# Loading work.caches
+# Loading work.Icache
+# Loading work.Dcache
+# Loading work.memory_control
+# Loading work.ram
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# run -all 
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/control_unit.sv(27): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# Starting Processor.
+# Halted at 4120 time and ran for        205 cycles.
+# Starting memory dump.
+# Finished memory dump.
+12 instructions
+processing file asmFiles/test.loadstore.asm (17 of 18)
+Reading /mtitcl/vsim/pref.tcl 
+
+# 10.2b
+
+# vsim -L altera_mf_ver -L altera_ver -L cycloneii_ver -L cycloneive_ver -do {run -all; exit;} -c -wlf system_tb.wlf work.system_tb 
+# //  ModelSim SE-64 10.2b May 16 2013 Linux 2.6.32-504.12.2.el6.x86_64
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.system_tb
+# Loading work.cpu_types_pkg
+# Loading work.system_if
+# Loading work.test
+# Loading work.system
+# Loading work.cpu_ram_if
+# Loading work.pipeline
+# Loading work.datapath_cache_if
+# Loading work.cache_control_if
+# Loading work.datapath
+# Loading work.control_unit_if
+# Loading work.hazard_unit_if
+# Loading work.register_file_if
+# Loading work.alu_if
+# Loading work.pipeline_registers_if
+# Loading work.control_unit_sv_unit
+# Loading work.control_unit
+# Loading work.hazard_unit_sv_unit
+# Loading work.hazard_unit
+# Loading work.register_file_sv_unit
+# Loading work.register_file
+# Loading work.alu_sv_unit
+# Loading work.alu
+# Loading work.pipeline_registers_sv_unit
+# Loading work.pipeline_registers
+# Loading work.caches
+# Loading work.Icache
+# Loading work.Dcache
+# Loading work.memory_control
+# Loading work.ram
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# run -all 
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/control_unit.sv(27): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# Starting Processor.
+# Halted at 4120 time and ran for        205 cycles.
+# Starting memory dump.
+# Finished memory dump.
+12 instructions
+processing file asmFiles/test.rtype.asm (18 of 18)
+Reading /mtitcl/vsim/pref.tcl 
+
+# 10.2b
+
+# vsim -L altera_mf_ver -L altera_ver -L cycloneii_ver -L cycloneive_ver -do {run -all; exit;} -c -wlf system_tb.wlf work.system_tb 
+# //  ModelSim SE-64 10.2b May 16 2013 Linux 2.6.32-504.12.2.el6.x86_64
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.system_tb
+# Loading work.cpu_types_pkg
+# Loading work.system_if
+# Loading work.test
+# Loading work.system
+# Loading work.cpu_ram_if
+# Loading work.pipeline
+# Loading work.datapath_cache_if
+# Loading work.cache_control_if
+# Loading work.datapath
+# Loading work.control_unit_if
+# Loading work.hazard_unit_if
+# Loading work.register_file_if
+# Loading work.alu_if
+# Loading work.pipeline_registers_if
+# Loading work.control_unit_sv_unit
+# Loading work.control_unit
+# Loading work.hazard_unit_sv_unit
+# Loading work.hazard_unit
+# Loading work.register_file_sv_unit
+# Loading work.register_file
+# Loading work.alu_sv_unit
+# Loading work.alu
+# Loading work.pipeline_registers_sv_unit
+# Loading work.pipeline_registers
+# Loading work.caches
+# Loading work.Icache
+# Loading work.Dcache
+# Loading work.memory_control
+# Loading work.ram
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# run -all 
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/control_unit.sv(27): No condition is true in the unique/priority if/case statement.
+# ** Warning: (vsim-8315) source/alu.sv(26): No condition is true in the unique/priority if/case statement.
+# Starting Processor.
+# Halted at 7760 time and ran for        387 cycles.
+# Starting memory dump.
+# Finished memory dump.
+27 instructions
